@@ -1,10 +1,10 @@
 {
   "schema": "okp.final-package-verification.v1",
-  "generated_at": "2026-09-14T11:14:56+03:00",
+  "generated_at": "2026-09-14T12:25:32+03:00",
   "package_root": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ",
   "policy": {
-    "page_size_tolerance_mm": 0.08,
-    "text_block_edge_tolerance_pt": 2.0,
+    "page_size_tolerance_mm": 0.15,
+    "text_block_edge_tolerance_pt": 3.0,
     "minimum_native_file_size_bytes": 4096,
     "raster_images_allowed": 0,
     "expected_documents": 8,
@@ -41,6 +41,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -57,9 +58,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 437844,
-      "sha256": "39c7ded81ef3e02ec39e310f470632ce947adfdab8f770cff1e70b252284bac5",
+      "size_bytes": 454047,
+      "sha256": "321181b9dfb2efbf2add75fab78b7a072b065aa3655f5195d42f6efdc8fb80f1",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 1,
       "expected_page_count": 1,
       "format": "A1 landscape",
@@ -67,8 +81,8 @@
         {
           "page": 1,
           "size_mm": [
-            841.0,
-            594.0
+            841.079,
+            594.106
           ],
           "expected_size_mm": [
             841.0,
@@ -79,7 +93,7 @@
           "text_characters": 1077,
           "text_blocks": 71,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 50040,
+          "vector_drawing_groups": 50063,
           "raster_image_occurrences": 0
         }
       ],
@@ -119,6 +133,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -135,9 +150,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 367049,
-      "sha256": "110b9a4e303d38088bcae296a8cdd1a369812bdd03cb6036a6a3c3be1644be37",
+      "size_bytes": 383958,
+      "sha256": "bd27b9fd50821e9f53228f8eed2a12d8dc8e1fdcc0d99d42a6a1a0fe2a5f15c2",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 1,
       "expected_page_count": 1,
       "format": "A2 landscape",
@@ -145,8 +173,8 @@
         {
           "page": 1,
           "size_mm": [
-            594.0,
-            420.0
+            594.106,
+            420.116
           ],
           "expected_size_mm": [
             594.0,
@@ -197,6 +225,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -213,9 +242,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 563324,
-      "sha256": "d24e9eea610b579efe532e215401b287737096833198dc3babffefb357ff6530",
+      "size_bytes": 579346,
+      "sha256": "719ac7081f0e977b23a194c76e964a82ad86544fea34e1fa14474a5d0bf726b4",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 1,
       "expected_page_count": 1,
       "format": "A1 landscape",
@@ -223,8 +265,8 @@
         {
           "page": 1,
           "size_mm": [
-            841.0,
-            594.0
+            841.079,
+            594.106
           ],
           "expected_size_mm": [
             841.0,
@@ -235,7 +277,7 @@
           "text_characters": 996,
           "text_blocks": 90,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 75587,
+          "vector_drawing_groups": 75485,
           "raster_image_occurrences": 0
         }
       ],
@@ -386,6 +428,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -402,9 +445,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 217139,
-      "sha256": "cbf62d2ef8d7596ea3d9a56d4175614d7fc12cdebd3694486c5f882e38220a97",
+      "size_bytes": 237432,
+      "sha256": "4d92b32515c3c9c7e247155c353e55a998a54c463eb5a0cc2cd4add0ad7249b1",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 1,
       "expected_page_count": 1,
       "format": "A2 landscape",
@@ -412,8 +468,8 @@
         {
           "page": 1,
           "size_mm": [
-            594.0,
-            420.0
+            594.106,
+            420.116
           ],
           "expected_size_mm": [
             594.0,
@@ -472,6 +528,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -488,9 +545,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 174632,
-      "sha256": "0d73dc3b9e796d723c1693154325e8b50778740af1f59c66395d72a3502714c5",
+      "size_bytes": 191387,
+      "sha256": "545cffb34aa2301fb14065425e9159fcc88776da2a72e0dccf0918881f602422",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 1,
       "expected_page_count": 1,
       "format": "A2 landscape",
@@ -498,8 +568,8 @@
         {
           "page": 1,
           "size_mm": [
-            594.0,
-            420.0
+            594.106,
+            420.116
           ],
           "expected_size_mm": [
             594.0,
@@ -548,6 +618,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -564,9 +635,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 144962,
-      "sha256": "d28708cbe5eeef80dd5899b8bb55602753beb37a6521b3e4adadfad02df454c3",
+      "size_bytes": 160709,
+      "sha256": "54a0592c2f4cb49e29c8bdbe537775ab5a789167e465f0000f8431985e5396ba",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 1,
       "expected_page_count": 1,
       "format": "A1 landscape",
@@ -574,8 +658,8 @@
         {
           "page": 1,
           "size_mm": [
-            841.0,
-            594.0
+            841.079,
+            594.106
           ],
           "expected_size_mm": [
             841.0,
@@ -623,6 +707,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -639,9 +724,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 96051,
-      "sha256": "4e5803fa75793718ee57831998bbc7b609fe198c793eb18a36b9ba3ea8c08472",
+      "size_bytes": 112384,
+      "sha256": "9a53af0e1533e1b548e79bd4172a1410271733db3a579ca60ec0644e91107a30",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 2,
       "expected_page_count": 2,
       "format": "A4 portrait",
@@ -649,8 +747,8 @@
         {
           "page": 1,
           "size_mm": [
-            210.0,
-            297.0
+            210.058,
+            297.095
           ],
           "expected_size_mm": [
             210.0,
@@ -667,8 +765,8 @@
         {
           "page": 2,
           "size_mm": [
-            210.0,
-            297.0
+            210.058,
+            297.095
           ],
           "expected_size_mm": [
             210.0,
@@ -716,6 +814,7 @@
       "checks": {
         "exists": true,
         "opens": true,
+        "direct_kompas_pdf_export": true,
         "page_count": true,
         "not_encrypted": true,
         "exact_iso_page_size": true,
@@ -732,9 +831,22 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 108127,
-      "sha256": "2ae564e0eee1f045ef2901f7433d0e4dfc8680980502fd9d85afca62b73d8a0e",
+      "size_bytes": 124687,
+      "sha256": "c0d47a829cec4318d9fa122acea1a6f23a48442b6e501a588068b0b90f9ac7be",
       "encrypted": false,
+      "metadata": {
+        "format": "PDF 1.6",
+        "title": "",
+        "author": "",
+        "subject": "",
+        "keywords": "",
+        "creator": "",
+        "producer": "Haru Free PDF Library 2.3.0RC2",
+        "creationDate": "",
+        "modDate": "",
+        "trapped": "",
+        "encryption": null
+      },
       "page_count": 3,
       "expected_page_count": 3,
       "format": "A4 portrait",
@@ -742,8 +854,8 @@
         {
           "page": 1,
           "size_mm": [
-            210.0,
-            297.0
+            210.058,
+            297.095
           ],
           "expected_size_mm": [
             210.0,
@@ -760,8 +872,8 @@
         {
           "page": 2,
           "size_mm": [
-            210.0,
-            297.0
+            210.058,
+            297.095
           ],
           "expected_size_mm": [
             210.0,
@@ -778,8 +890,8 @@
         {
           "page": 3,
           "size_mm": [
-            210.0,
-            297.0
+            210.058,
+            297.095
           ],
           "expected_size_mm": [
             210.0,
@@ -1001,8 +1113,8 @@
       "id": "structural_division_scheme",
       "file": "РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Нативные_КОМПАС\\РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
-      "size_bytes": 112161,
-      "sha256": "02405c58930743ca87b3f83a5d5983fde984aca8d94aa4970dd77df5949b1c5b",
+      "size_bytes": 109719,
+      "sha256": "27cd3ccad74da10255c094092f34f63954db540578d178da0d4b89222a77afc3",
       "checks": {
         "exists": true,
         "nonempty_and_plausible_size": true,
@@ -1048,7 +1160,7 @@
       {
         "file": "ОТЧЁТ_НОРМОКОНТРОЛЯ.md",
         "exists": true,
-        "size_bytes": 5903,
+        "size_bytes": 7201,
         "nonempty": true
       },
       {
@@ -1355,43 +1467,43 @@
     "files": [
       {
         "path": "PDF/РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.pdf",
-        "size_bytes": 437844,
-        "sha256": "39c7ded81ef3e02ec39e310f470632ce947adfdab8f770cff1e70b252284bac5"
+        "size_bytes": 454047,
+        "sha256": "321181b9dfb2efbf2add75fab78b7a072b065aa3655f5195d42f6efdc8fb80f1"
       },
       {
         "path": "PDF/РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.pdf",
-        "size_bytes": 217139,
-        "sha256": "cbf62d2ef8d7596ea3d9a56d4175614d7fc12cdebd3694486c5f882e38220a97"
+        "size_bytes": 237432,
+        "sha256": "4d92b32515c3c9c7e247155c353e55a998a54c463eb5a0cc2cd4add0ad7249b1"
       },
       {
         "path": "PDF/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.pdf",
-        "size_bytes": 144962,
-        "sha256": "d28708cbe5eeef80dd5899b8bb55602753beb37a6521b3e4adadfad02df454c3"
+        "size_bytes": 160709,
+        "sha256": "54a0592c2f4cb49e29c8bdbe537775ab5a789167e465f0000f8431985e5396ba"
       },
       {
         "path": "PDF/РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.pdf",
-        "size_bytes": 174632,
-        "sha256": "0d73dc3b9e796d723c1693154325e8b50778740af1f59c66395d72a3502714c5"
+        "size_bytes": 191387,
+        "sha256": "545cffb34aa2301fb14065425e9159fcc88776da2a72e0dccf0918881f602422"
       },
       {
         "path": "PDF/РЛ5.41.00.00.00_СБ_Привод.pdf",
-        "size_bytes": 367049,
-        "sha256": "110b9a4e303d38088bcae296a8cdd1a369812bdd03cb6036a6a3c3be1644be37"
+        "size_bytes": 383958,
+        "sha256": "bd27b9fd50821e9f53228f8eed2a12d8dc8e1fdcc0d99d42a6a1a0fe2a5f15c2"
       },
       {
         "path": "PDF/РЛ5.41.00.00.00_Спецификация_привода.pdf",
-        "size_bytes": 96051,
-        "sha256": "4e5803fa75793718ee57831998bbc7b609fe198c793eb18a36b9ba3ea8c08472"
+        "size_bytes": 112384,
+        "sha256": "9a53af0e1533e1b548e79bd4172a1410271733db3a579ca60ec0644e91107a30"
       },
       {
         "path": "PDF/РЛ5.41.01.00.00_СБ_Редуктор.pdf",
-        "size_bytes": 563324,
-        "sha256": "d24e9eea610b579efe532e215401b287737096833198dc3babffefb357ff6530"
+        "size_bytes": 579346,
+        "sha256": "719ac7081f0e977b23a194c76e964a82ad86544fea34e1fa14474a5d0bf726b4"
       },
       {
         "path": "PDF/РЛ5.41.01.00.00_Спецификация_редуктора.pdf",
-        "size_bytes": 108127,
-        "sha256": "2ae564e0eee1f045ef2901f7433d0e4dfc8680980502fd9d85afca62b73d8a0e"
+        "size_bytes": 124687,
+        "sha256": "c0d47a829cec4318d9fa122acea1a6f23a48442b6e501a588068b0b90f9ac7be"
       },
       {
         "path": "README.md",
@@ -1425,8 +1537,8 @@
       },
       {
         "path": "Контроль/ОТЧЁТ_НОРМОКОНТРОЛЯ.md",
-        "size_bytes": 5903,
-        "sha256": "0db292d52cc718f96d63fbd3905270b2875a052908efedb6e505944a5a31d609"
+        "size_bytes": 7201,
+        "sha256": "1bad553baf0a4ce18b6c8d8a44fde7d3f8d5e2aa6e00ae2ce8ede87f3febe96b"
       },
       {
         "path": "Контроль/ПРОТОКОЛ_ПРОВЕРКИ_МОДЕЛИ.json",
@@ -1445,38 +1557,38 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/drive_release_p1.png",
-        "size_bytes": 829011,
-        "sha256": "5d9a0e0d8d57177aeab5ac4d125ea77012fdf712bf20b6467c0842f6f7cd81c4"
+        "size_bytes": 367947,
+        "sha256": "8fe54d58ef9647b1ca41f6a71093d333825374163faf9375555a81ae95d1b04b"
       },
       {
         "path": "Контроль/Увеличенный_контроль/drive_stamp.png",
-        "size_bytes": 152322,
-        "sha256": "ea9af49bd6f787761b09f6be5f182677928ed9eba30be879e2800a7c38e2f767"
+        "size_bytes": 60290,
+        "sha256": "ac1076722ee27fcc63497d291b7e6646055b80997905cdf2d57470dd347cb217"
       },
       {
         "path": "Контроль/Увеличенный_контроль/e1_stamp.png",
-        "size_bytes": 174087,
-        "sha256": "5bebd44c9f3094ba5a3a58f57d52b0f20848273f069062520db5ff3c67d1c5fd"
+        "size_bytes": 77517,
+        "sha256": "0039aca6916f2d48ac0a79a2a8c591f706595f77697ee63526ace311bee5f1a6"
       },
       {
         "path": "Контроль/Увеличенный_контроль/gabarit_release_p1.png",
-        "size_bytes": 925396,
-        "sha256": "c7c300ea7cf8d71f49f6d59fa9fea64bb26f4a941e792e7b680ea0b7c374fe2e"
+        "size_bytes": 449128,
+        "sha256": "7f830dc4f2a8d1abaf6d9d7d4026eede8b2809aad9d8362ec0e765476ee653e5"
       },
       {
         "path": "Контроль/Увеличенный_контроль/gabarit_stamp.png",
-        "size_bytes": 171997,
-        "sha256": "f2f97fd847fe3cc60bf5598fc7e3966a1e483087d2722178f494965aaf31de08"
+        "size_bytes": 63682,
+        "sha256": "006cc1dfbf5c45b20257d9205c8e70dd0fb1f0685e03cf0f15a719d1cc8f6aca"
       },
       {
         "path": "Контроль/Увеличенный_контроль/kinematic_release_p1.png",
-        "size_bytes": 803124,
-        "sha256": "75d8ad437b4f647cc379d2e929f981508790c9069096e040a368793e29c365e0"
+        "size_bytes": 376740,
+        "sha256": "9484d08c05ce5e2caf54411acbca2ece87b05d47859c72c76ec3c15d12f8b40f"
       },
       {
         "path": "Контроль/Увеличенный_контроль/kinematic_stamp.png",
-        "size_bytes": 151376,
-        "sha256": "7b9ed4e2a494f354c0ecb155982f39cbc1017de1ca9e90f3cf103a2811e4ec42"
+        "size_bytes": 63545,
+        "sha256": "fee55092cc21cd5854d9a6dab4e1333da1b9ed7567535e93ffd62daf9fba5e29"
       },
       {
         "path": "Контроль/Увеличенный_контроль/overall_leader_contact_sheet.png",
@@ -1485,13 +1597,13 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/overall_release_p1.png",
-        "size_bytes": 1699137,
-        "sha256": "8f8d35f1a758df22c2e350a085e0230b469931fc9eb4b06e053e697dc704a437"
+        "size_bytes": 931664,
+        "sha256": "af409db9cfb14f690b8c93d3a527d2db731f48ee3933acdbaaa6e13e172a1de5"
       },
       {
         "path": "Контроль/Увеличенный_контроль/overall_stamp.png",
-        "size_bytes": 119288,
-        "sha256": "cef9d66f16a8a1daddaea1ae3bff44265b177a9c37917277ede268f2713d880c"
+        "size_bytes": 52075,
+        "sha256": "da2384ac8a17072d3149af6842fe63e43135df084c357fed302463de637cc5a1"
       },
       {
         "path": "Контроль/Увеличенный_контроль/reducer_leader_contact_sheet.png",
@@ -1500,43 +1612,43 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/reducer_release_p1.png",
-        "size_bytes": 1975104,
-        "sha256": "780d6e8abf60463a92093fb7ba451dcd775be93bd03cb889168261aebf7c4de4"
+        "size_bytes": 1111586,
+        "sha256": "df75ae2f23243a66b9a104878f317bfabed2e6fbd9391680e068a4a6d723324a"
       },
       {
         "path": "Контроль/Увеличенный_контроль/reducer_stamp.png",
-        "size_bytes": 104587,
-        "sha256": "dc3779423e29c5f011905145088a13487c96889c99b021ca20c235205db0f9b1"
+        "size_bytes": 45927,
+        "sha256": "349d74f823bb9c857899531acd1d09e91aa591b905b25a0cc689924362c2f867"
       },
       {
         "path": "Контроль/Увеличенный_контроль/Привод_спецификация_p1.png",
-        "size_bytes": 450817,
-        "sha256": "59fb07480e22b3126a1cd5714da5b98748f46387626c89a50978849e613b28ca"
+        "size_bytes": 171095,
+        "sha256": "abfd357745da03503bf9659287775ac4abc8ee6753e20da7316c43fe5e407913"
       },
       {
         "path": "Контроль/Увеличенный_контроль/Привод_спецификация_p2.png",
-        "size_bytes": 333482,
-        "sha256": "d6b07d1af4f2c0dee493f0565b53c032e044fdbf05355917c72da868e5710ab7"
+        "size_bytes": 118408,
+        "sha256": "0ac88fdd0d84bccb9d29e9888a6ac2ce3ddfd03bac09e63de53a575f47e964dd"
       },
       {
         "path": "Контроль/Увеличенный_контроль/Редуктор_спецификация_p1.png",
-        "size_bytes": 498206,
-        "sha256": "3cb230cb682f135f29f8f1258f8c2dd5dcb7fa3150b93e9fde838cb9acf2c3bf"
+        "size_bytes": 186764,
+        "sha256": "83d5b502c2ffc8dc0c58db6367d927d552e0483d3fdc4d79c6a54804eadb0315"
       },
       {
         "path": "Контроль/Увеличенный_контроль/Редуктор_спецификация_p2.png",
-        "size_bytes": 565711,
-        "sha256": "acb9a76a8cd5471290404aed49cdcdb59839cd775a67de991847bcd3b4695d46"
+        "size_bytes": 216400,
+        "sha256": "915805d8e48c2e5f5fedd1744708934cf08b103a495224ba362c192cbac02b99"
       },
       {
         "path": "Контроль/Увеличенный_контроль/Редуктор_спецификация_p3.png",
-        "size_bytes": 313822,
-        "sha256": "f7b58dab57b53560306c9be422ac31795cf042275846086036e810f35975a3dd"
+        "size_bytes": 111691,
+        "sha256": "dc9a7a26cc9f69944da7a9c76cd46aa78b2ea7965b2e0b6d5f002d99b3d17a62"
       },
       {
         "path": "Контроль/Увеличенный_контроль/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.png",
-        "size_bytes": 482382,
-        "sha256": "ad6afe3a7472e368f75b97e781c7b73fedd464e7aa2f8cd32b1a6ad636155b91"
+        "size_bytes": 487433,
+        "sha256": "ceb972bf4028ea7f25bfde8c212fb06cdf3787df1f94c382f96601f907131e4f"
       },
       {
         "path": "Модель/РЛ5.41.00.00.00_Модель_STEP_D27_исправлена.stp",
@@ -1555,8 +1667,8 @@
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
-        "size_bytes": 112161,
-        "sha256": "02405c58930743ca87b3f83a5d5983fde984aca8d94aa4970dd77df5949b1c5b"
+        "size_bytes": 109719,
+        "sha256": "27cd3ccad74da10255c094092f34f63954db540578d178da0d4b89222a77afc3"
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.cdw",
@@ -1594,7 +1706,7 @@
     ],
     "verifier_script": {
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\verify_final_package.py",
-      "sha256": "b9b50fa03dec37098b4b16a1b7e8377ecdea5d5313661558123b43b3428cb996"
+      "sha256": "f12d2a1c6fe3b81a27e8f766d0c85507d4addc72e71a02f1e24cb44f5a7cfcd3"
     }
   }
 }
