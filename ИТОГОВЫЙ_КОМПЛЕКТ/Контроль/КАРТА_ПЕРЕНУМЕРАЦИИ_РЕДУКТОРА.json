@@ -1,0 +1,1610 @@
+{
+  "designation": "РЛ5.41.01.00.00",
+  "source_file": "Сборочный_чертёж_редуктора\\Исходные_данные\\Состав_и_позиции_по_структурной_схеме.json",
+  "drawing_file": "Сборочный_чертёж_редуктора\\Редуктор_сборочный_чертёж_А1_рамка.pdf",
+  "renumbering_rule": "Самостоятельная сквозная нумерация спецификации редуктора: сначала раздел «Детали», затем «Стандартные изделия». Номера E1 сохранены только как ключ для синхронизации текущего СБ.",
+  "mapping": [
+    {
+      "old_position_e1_and_current_sb": 23,
+      "new_position_reducer_spw": 1,
+      "section": "Детали",
+      "name": "Вал VI",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        223
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1673.86,
+            1114.1,
+            1697.49,
+            1136.09
+          ],
+          "bbox_a1_mm_top_left": [
+            590.5,
+            393.03,
+            598.84,
+            400.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 24,
+      "new_position_reducer_spw": 2,
+      "section": "Детали",
+      "name": "Вал-шестерня Z3",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        36
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            145.28,
+            1170.8,
+            170.31,
+            1192.79
+          ],
+          "bbox_a1_mm_top_left": [
+            51.25,
+            413.03,
+            60.08,
+            420.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 25,
+      "new_position_reducer_spw": 3,
+      "section": "Детали",
+      "name": "Вал-шестерня Z5",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        292
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            718.58,
+            1017.73,
+            742.21,
+            1039.72
+          ],
+          "bbox_a1_mm_top_left": [
+            253.5,
+            359.03,
+            261.84,
+            366.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 26,
+      "new_position_reducer_spw": 4,
+      "section": "Детали",
+      "name": "Вал-шестерня Z7",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        67
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            900.0,
+            1250.17,
+            923.63,
+            1272.16
+          ],
+          "bbox_a1_mm_top_left": [
+            317.5,
+            441.03,
+            325.84,
+            448.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 27,
+      "new_position_reducer_spw": 5,
+      "section": "Детали",
+      "name": "Вал-шестерня Z9",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        300
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            803.62,
+            669.07,
+            827.25,
+            691.06
+          ],
+          "bbox_a1_mm_top_left": [
+            283.5,
+            236.03,
+            291.84,
+            243.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 28,
+      "new_position_reducer_spw": 6,
+      "section": "Детали",
+      "name": "Винт ступенчатый ЛВК Z10",
+      "quantity_in_reducer": 4,
+      "gearbox_node_ids": [
+        267,
+        270,
+        273,
+        276
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            809.29,
+            147.49,
+            832.92,
+            169.48
+          ],
+          "bbox_a1_mm_top_left": [
+            285.5,
+            52.03,
+            293.84,
+            59.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 29,
+      "new_position_reducer_spw": 7,
+      "section": "Детали",
+      "name": "Винт ступенчатый реечного ЛВК Z11",
+      "quantity_in_reducer": 2,
+      "gearbox_node_ids": [
+        400,
+        403
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1614.33,
+            382.77,
+            1637.96,
+            404.76
+          ],
+          "bbox_a1_mm_top_left": [
+            569.5,
+            135.03,
+            577.84,
+            142.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 30,
+      "new_position_reducer_spw": 8,
+      "section": "Детали",
+      "name": "Втулка 1",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        41
+      ],
+      "match_note": "Соответствие по размещению: Втулка 1 = Втулка стакана; Втулка 2 = Втулка муфты.",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            718.58,
+            1085.76,
+            742.21,
+            1107.75
+          ],
+          "bbox_a1_mm_top_left": [
+            253.5,
+            383.03,
+            261.84,
+            390.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 31,
+      "new_position_reducer_spw": 9,
+      "section": "Детали",
+      "name": "Втулка 2",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        303
+      ],
+      "match_note": "Соответствие по размещению: Втулка 1 = Втулка стакана; Втулка 2 = Втулка муфты.",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1445.67,
+            944.03,
+            1466.46,
+            966.02
+          ],
+          "bbox_a1_mm_top_left": [
+            510.0,
+            333.03,
+            517.34,
+            340.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 33,
+      "new_position_reducer_spw": 10,
+      "section": "Детали",
+      "name": "Гайка муфты",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        329
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1444.25,
+            1204.81,
+            1467.88,
+            1226.8
+          ],
+          "bbox_a1_mm_top_left": [
+            509.5,
+            425.03,
+            517.84,
+            432.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 34,
+      "new_position_reducer_spw": 11,
+      "section": "Детали",
+      "name": "Зубчатое колесо Z2",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        37
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            105.59,
+            323.24,
+            130.63,
+            345.23
+          ],
+          "bbox_a1_mm_top_left": [
+            37.25,
+            114.03,
+            46.08,
+            121.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 35,
+      "new_position_reducer_spw": 12,
+      "section": "Детали",
+      "name": "Зубчатое колесо Z4",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        66
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            106.3,
+            428.12,
+            129.93,
+            450.11
+          ],
+          "bbox_a1_mm_top_left": [
+            37.5,
+            151.03,
+            45.84,
+            158.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 36,
+      "new_position_reducer_spw": 13,
+      "section": "Детали",
+      "name": "Зубчатое колесо Z6",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        80
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            177.17,
+            790.96,
+            200.79,
+            812.95
+          ],
+          "bbox_a1_mm_top_left": [
+            62.5,
+            279.03,
+            70.84,
+            286.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 38,
+      "new_position_reducer_spw": 14,
+      "section": "Детали",
+      "name": "Кольцо 3",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        293
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            718.58,
+            1153.79,
+            742.21,
+            1175.78
+          ],
+          "bbox_a1_mm_top_left": [
+            253.5,
+            407.03,
+            261.84,
+            414.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 39,
+      "new_position_reducer_spw": 15,
+      "section": "Детали",
+      "name": "Компенсатор крышки II вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        94
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            715.75,
+            1394.73,
+            739.38,
+            1416.72
+          ],
+          "bbox_a1_mm_top_left": [
+            252.5,
+            492.03,
+            260.84,
+            499.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 40,
+      "new_position_reducer_spw": 16,
+      "section": "Детали",
+      "name": "Компенсатор крышки IV вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        138
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 41,
+      "new_position_reducer_spw": 17,
+      "section": "Детали",
+      "name": "Компенсатор крышки V вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        345
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 42,
+      "new_position_reducer_spw": 18,
+      "section": "Детали",
+      "name": "Компенсатор крышки VI вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        221
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            2262.76,
+            1235.99,
+            2287.79,
+            1257.98
+          ],
+          "bbox_a1_mm_top_left": [
+            798.25,
+            436.03,
+            807.08,
+            443.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 43,
+      "new_position_reducer_spw": 19,
+      "section": "Детали",
+      "name": "Корпус",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        1
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            114.09,
+            209.85,
+            139.13,
+            231.84
+          ],
+          "bbox_a1_mm_top_left": [
+            40.25,
+            74.03,
+            49.08,
+            81.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 45,
+      "new_position_reducer_spw": 20,
+      "section": "Детали",
+      "name": "Крышка II вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        93
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            715.04,
+            1315.36,
+            740.08,
+            1337.35
+          ],
+          "bbox_a1_mm_top_left": [
+            252.25,
+            464.03,
+            261.08,
+            471.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 46,
+      "new_position_reducer_spw": 21,
+      "section": "Детали",
+      "name": "Крышка IV вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        95
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1443.54,
+            1380.56,
+            1468.58,
+            1402.55
+          ],
+          "bbox_a1_mm_top_left": [
+            509.25,
+            487.03,
+            518.08,
+            494.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 47,
+      "new_position_reducer_spw": 22,
+      "section": "Детали",
+      "name": "Крышка V вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        344
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1443.54,
+            1304.03,
+            1468.58,
+            1326.02
+          ],
+          "bbox_a1_mm_top_left": [
+            509.25,
+            460.03,
+            518.08,
+            467.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 48,
+      "new_position_reducer_spw": 23,
+      "section": "Детали",
+      "name": "Крышка VI вала",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        222
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            2262.76,
+            1162.29,
+            2287.79,
+            1184.28
+          ],
+          "bbox_a1_mm_top_left": [
+            798.25,
+            410.03,
+            807.08,
+            417.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 49,
+      "new_position_reducer_spw": 24,
+      "section": "Детали",
+      "name": "Крышка корпуса",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        341
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            936.14,
+            190.01,
+            961.18,
+            212.0
+          ],
+          "bbox_a1_mm_top_left": [
+            330.25,
+            67.03,
+            339.08,
+            74.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 50,
+      "new_position_reducer_spw": 25,
+      "section": "Детали",
+      "name": "Неподвижная полумуфта",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        336
+      ],
+      "match_note": "В STEP называется «Ведущая полумуфта». Отдельное колесо Z8 (304) в структурной схеме не обозначено.",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1444.25,
+            1009.22,
+            1467.88,
+            1031.21
+          ],
+          "bbox_a1_mm_top_left": [
+            509.5,
+            356.03,
+            517.84,
+            363.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 51,
+      "new_position_reducer_spw": 26,
+      "section": "Детали",
+      "name": "Несущая часть ЛВК Z10",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        251
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1672.44,
+            958.2,
+            1693.23,
+            980.19
+          ],
+          "bbox_a1_mm_top_left": [
+            590.0,
+            338.03,
+            597.34,
+            345.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 52,
+      "new_position_reducer_spw": 27,
+      "section": "Детали",
+      "name": "Несущая часть реечного ЛВК Z11",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        388
+      ],
+      "match_note": "STEP содержит безымянные «Деталь»: несущая 388 определена по длинной ступице, сопряжённой со шпонкой 135; поворотная 391 — тонкая половина.",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1614.33,
+            501.82,
+            1637.96,
+            523.81
+          ],
+          "bbox_a1_mm_top_left": [
+            569.5,
+            177.03,
+            577.84,
+            184.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 53,
+      "new_position_reducer_spw": 28,
+      "section": "Детали",
+      "name": "Опора скольжения",
+      "quantity_in_reducer": 2,
+      "gearbox_node_ids": [
+        142,
+        145
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            942.52,
+            737.1,
+            966.15,
+            759.09
+          ],
+          "bbox_a1_mm_top_left": [
+            332.5,
+            260.03,
+            340.84,
+            267.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 54,
+      "new_position_reducer_spw": 29,
+      "section": "Детали",
+      "name": "Поворотная часть ЛВК Z10",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        257
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            712.2,
+            79.46,
+            737.24,
+            101.45
+          ],
+          "bbox_a1_mm_top_left": [
+            251.25,
+            28.03,
+            260.08,
+            35.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 55,
+      "new_position_reducer_spw": 30,
+      "section": "Детали",
+      "name": "Поворотная часть реечного ЛВК Z11",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        391
+      ],
+      "match_note": "STEP содержит безымянные «Деталь»: несущая 388 определена по длинной ступице, сопряжённой со шпонкой 135; поворотная 391 — тонкая половина.",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            2263.46,
+            1383.4,
+            2287.09,
+            1405.39
+          ],
+          "bbox_a1_mm_top_left": [
+            798.5,
+            488.03,
+            806.84,
+            495.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 56,
+      "new_position_reducer_spw": 31,
+      "section": "Детали",
+      "name": "Подвижная полумуфта",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        340
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1444.25,
+            1074.42,
+            1467.88,
+            1096.41
+          ],
+          "bbox_a1_mm_top_left": [
+            509.5,
+            379.03,
+            517.84,
+            386.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 57,
+      "new_position_reducer_spw": 32,
+      "section": "Детали",
+      "name": "Пружина ЛВК Z10",
+      "quantity_in_reducer": 4,
+      "gearbox_node_ids": [
+        254,
+        258,
+        261,
+        264
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            644.88,
+            51.11,
+            668.51,
+            73.1
+          ],
+          "bbox_a1_mm_top_left": [
+            227.5,
+            18.03,
+            235.84,
+            25.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 58,
+      "new_position_reducer_spw": 33,
+      "section": "Детали",
+      "name": "Пружина муфты",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        337
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1444.25,
+            1139.62,
+            1467.88,
+            1161.61
+          ],
+          "bbox_a1_mm_top_left": [
+            509.5,
+            402.03,
+            517.84,
+            409.79
+          ],
+          "context": "разрез В–В"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 59,
+      "new_position_reducer_spw": 34,
+      "section": "Детали",
+      "name": "Пружина реечного ЛВК Z11",
+      "quantity_in_reducer": 2,
+      "gearbox_node_ids": [
+        394,
+        397
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1608.66,
+            150.33,
+            1632.29,
+            172.32
+          ],
+          "bbox_a1_mm_top_left": [
+            567.5,
+            53.03,
+            575.84,
+            60.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 60,
+      "new_position_reducer_spw": 35,
+      "section": "Детали",
+      "name": "Реечная направляющая",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        139
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1356.38,
+            790.96,
+            1380.01,
+            812.95
+          ],
+          "bbox_a1_mm_top_left": [
+            478.5,
+            279.03,
+            486.84,
+            286.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 62,
+      "new_position_reducer_spw": 36,
+      "section": "Детали",
+      "name": "Стакан",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        38
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            120.47,
+            575.52,
+            144.1,
+            597.51
+          ],
+          "bbox_a1_mm_top_left": [
+            42.5,
+            203.03,
+            50.84,
+            210.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 64,
+      "new_position_reducer_spw": 37,
+      "section": "Детали",
+      "name": "Шпонка муфты",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        335
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 2,
+      "new_position_reducer_spw": 38,
+      "section": "Стандартные изделия",
+      "name": "Винт А.М1-6g×3 ГОСТ 17473-80",
+      "quantity_in_reducer": 3,
+      "gearbox_node_ids": [
+        348,
+        351,
+        354
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 3,
+      "new_position_reducer_spw": 39,
+      "section": "Стандартные изделия",
+      "name": "Винт А.М1-6g×4 ГОСТ 17473-80",
+      "quantity_in_reducer": 6,
+      "gearbox_node_ids": [
+        357,
+        360,
+        363,
+        366,
+        369,
+        372
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 6,
+      "new_position_reducer_spw": 40,
+      "section": "Стандартные изделия",
+      "name": "Винт А.М2-6g×5 ГОСТ 17473-80",
+      "quantity_in_reducer": 7,
+      "gearbox_node_ids": [
+        170,
+        173,
+        176,
+        179,
+        282,
+        285,
+        288
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            975.83,
+            799.46,
+            989.54,
+            821.45
+          ],
+          "bbox_a1_mm_top_left": [
+            344.25,
+            282.03,
+            349.09,
+            289.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 7,
+      "new_position_reducer_spw": 41,
+      "section": "Стандартные изделия",
+      "name": "Винт А.М2-6g×6 ГОСТ 17473-80",
+      "quantity_in_reducer": 3,
+      "gearbox_node_ids": [
+        96,
+        99,
+        102
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            131.1,
+            671.9,
+            144.81,
+            693.89
+          ],
+          "bbox_a1_mm_top_left": [
+            46.25,
+            237.03,
+            51.09,
+            244.79
+          ],
+          "context": "верхний левый вид / А–А"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 8,
+      "new_position_reducer_spw": 42,
+      "section": "Стандартные изделия",
+      "name": "Винт А.М2-6g×9 ГОСТ 17473-80",
+      "quantity_in_reducer": 6,
+      "gearbox_node_ids": [
+        105,
+        108,
+        111,
+        114,
+        117,
+        120
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            938.98,
+            104.97,
+            952.69,
+            126.96
+          ],
+          "bbox_a1_mm_top_left": [
+            331.25,
+            37.03,
+            336.09,
+            44.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 9,
+      "new_position_reducer_spw": 43,
+      "section": "Стандартные изделия",
+      "name": "Гайка М8-6H ГОСТ 5929-70",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        279
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1596.61,
+            280.72,
+            1610.33,
+            302.71
+          ],
+          "bbox_a1_mm_top_left": [
+            563.25,
+            99.03,
+            568.09,
+            106.79
+          ],
+          "context": "верхний центральный вид"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 11,
+      "new_position_reducer_spw": 44,
+      "section": "Стандартные изделия",
+      "name": "Кольцо А9.50 ХГА ГОСТ 13940-86",
+      "quantity_in_reducer": 2,
+      "gearbox_node_ids": [
+        247,
+        295
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            2266.3,
+            1088.59,
+            2284.26,
+            1110.58
+          ],
+          "bbox_a1_mm_top_left": [
+            799.5,
+            384.03,
+            805.83,
+            391.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 13,
+      "new_position_reducer_spw": 45,
+      "section": "Стандартные изделия",
+      "name": "Подшипник 1000093 ГОСТ 8338-75",
+      "quantity_in_reducer": 8,
+      "gearbox_node_ids": [
+        12,
+        24,
+        42,
+        54,
+        68,
+        81,
+        305,
+        317
+      ],
+      "match_note": "Схема явно показывает 6 штук на II–IV валах; модель дополнительно содержит 2 одинаковых подшипника на V валу.",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            136.06,
+            1275.68,
+            156.86,
+            1297.67
+          ],
+          "bbox_a1_mm_top_left": [
+            48.0,
+            450.03,
+            55.34,
+            457.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 14,
+      "new_position_reducer_spw": 46,
+      "section": "Стандартные изделия",
+      "name": "Подшипник 4А-1000007 ГОСТ 10058-90",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        200
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1668.9,
+            1029.07,
+            1691.1,
+            1051.06
+          ],
+          "bbox_a1_mm_top_left": [
+            588.75,
+            363.03,
+            596.58,
+            370.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 15,
+      "new_position_reducer_spw": 47,
+      "section": "Стандартные изделия",
+      "name": "Подшипник 4А-1000009 ГОСТ 10058-90",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        226
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            2264.88,
+            1014.89,
+            2285.67,
+            1036.88
+          ],
+          "bbox_a1_mm_top_left": [
+            799.0,
+            358.03,
+            806.34,
+            365.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 18,
+      "new_position_reducer_spw": 48,
+      "section": "Стандартные изделия",
+      "name": "Шпонка 3×3×6 ГОСТ 23360-78",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        135
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            2264.88,
+            1309.7,
+            2285.67,
+            1331.69
+          ],
+          "bbox_a1_mm_top_left": [
+            799.0,
+            462.03,
+            806.34,
+            469.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 19,
+      "new_position_reducer_spw": 49,
+      "section": "Стандартные изделия",
+      "name": "Штифт 1,2×3 ГОСТ 3128-70",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        298
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 20,
+      "new_position_reducer_spw": 50,
+      "section": "Стандартные изделия",
+      "name": "Штифт 1,5×6 ГОСТ 3128-70",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        294
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            718.58,
+            1227.49,
+            742.21,
+            1249.48
+          ],
+          "bbox_a1_mm_top_left": [
+            253.5,
+            433.03,
+            261.84,
+            440.79
+          ],
+          "context": "разрез Б–Б"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 21,
+      "new_position_reducer_spw": 51,
+      "section": "Стандартные изделия",
+      "name": "Штифт 1,5×8 ГОСТ 3128-70",
+      "quantity_in_reducer": 2,
+      "gearbox_node_ids": [
+        346,
+        347
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [],
+      "drawing_callout_status": "на текущем PDF не найдена"
+    },
+    {
+      "old_position_e1_and_current_sb": 22,
+      "new_position_reducer_spw": 52,
+      "section": "Стандартные изделия",
+      "name": "Штифт 2×12 ГОСТ 3128-70",
+      "quantity_in_reducer": 1,
+      "gearbox_node_ids": [
+        291
+      ],
+      "match_note": "",
+      "source": "Визуально прочитано на существующей структурной схеме; узлы сопоставлены по именам и геометрии STEP.",
+      "drawing_callouts": [
+        {
+          "page": 1,
+          "bbox_pdf_pt_top_left": [
+            1671.02,
+            1218.99,
+            1694.65,
+            1240.98
+          ],
+          "bbox_a1_mm_top_left": [
+            589.5,
+            430.03,
+            597.84,
+            437.79
+          ],
+          "context": "разрез Г–Г"
+        }
+      ],
+      "drawing_callout_status": "найдена"
+    }
+  ],
+  "excluded_unresolved": [
+    {
+      "position": 1,
+      "node_ids": [],
+      "note": "Позиция 1 на существующей структурной схеме не найдена. Не назначать автоматически стопорному винту."
+    },
+    {
+      "position": null,
+      "node_ids": [
+        304
+      ],
+      "name": "ЗК Z8",
+      "note": "Физически присутствует в модели муфты, но отдельная позиция на структурной схеме отсутствует."
+    },
+    {
+      "position": null,
+      "node_ids": [
+        332
+      ],
+      "name": "Винт А.М1-6gx2,5 ГОСТ 17473-80",
+      "note": "В модели стопорит гайку муфты; на структурной схеме не найден, номер не назначен."
+    },
+    {
+      "position": null,
+      "node_ids": [
+        7
+      ],
+      "name": "Шпонка двигателя",
+      "note": "Вне редуктора; на структурной схеме двигатель в сборе не раскрывает этот крепёж."
+    }
+  ],
+  "source_caution": "Номера структурной схемы не превращают этот файл в утверждённую спецификацию редуктора. Новые номера и отсутствующие обозначения не придуманы.",
+  "unmapped_numeric_callouts_in_drawing": {},
+  "drawing_page_size": {
+    "pdf_points": [
+      2383.937,
+      1683.78
+    ],
+    "millimetres": [
+      841.0,
+      594.0
+    ]
+  },
+  "technical_note_position_replacements": [
+    {
+      "note_number": 4,
+      "old_position_references": [
+        25,
+        26
+      ],
+      "new_position_references": [
+        3,
+        4
+      ],
+      "source_text": "Межосевое расстояние валов поз. 25 и 26 — 13,2 ±0,009 мм.",
+      "required_text_after_sync": "Межосевое расстояние валов поз. 3 и 4 — 13,2 ±0,009 мм."
+    },
+    {
+      "note_number": 5,
+      "old_position_references": [
+        27,
+        23
+      ],
+      "new_position_references": [
+        5,
+        1
+      ],
+      "source_text": "Межосевое расстояние валов поз. 27 и 23 — 17,325 ±0,009 мм.",
+      "required_text_after_sync": "Межосевое расстояние валов поз. 5 и 1 — 17,325 ±0,009 мм."
+    }
+  ]
+}

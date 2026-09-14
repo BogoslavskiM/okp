@@ -1,0 +1,11 @@
+*.md text eol=lf
+*.json text eol=lf
+
+*.stp -text
+*.step -text
+*.cdw -text
+*.spw -text
+*.m3d -text
+*.a3d -text
+*.pdf -text
+*.png -text

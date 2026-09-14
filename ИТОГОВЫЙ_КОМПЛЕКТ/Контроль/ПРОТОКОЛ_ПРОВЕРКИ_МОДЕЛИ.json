@@ -1,0 +1,139 @@
+{
+  "issue": "D-27",
+  "generated_utc": "2026-09-14T08:10:31.827922+00:00",
+  "status": "PASS",
+  "source": {
+    "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ОКП\\Детальная прорисовка.stp",
+    "sha256_before": "39259757057ab1bac278a5983d29d12fac5625b1ca00a9d4bff76827a31ccd92",
+    "sha256_after": "39259757057ab1bac278a5983d29d12fac5625b1ca00a9d4bff76827a31ccd92",
+    "unchanged": true
+  },
+  "output": {
+    "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Модель\\РЛ5.41.00.00.00_Модель_STEP_D27_исправлена.stp",
+    "sha256": "7c091932e24b4e066f9d6444050973088673ad7587b69c9fc499c0a5580d3ca4",
+    "size_bytes": 83646467,
+    "reopened_after_export": true,
+    "leaf_count": 320
+  },
+  "identified_pair": {
+    "rack": {
+      "path": "0:1:1:1./0:1:1:1:37./0:1:1:40:1.",
+      "names": [
+        "Следящий привод возвратно-поступательного движения",
+        "Следящий привод возвратно-поступательного движения",
+        "Реечная направляющая",
+        "Реечная направляющая",
+        "=>[0:1:1:41]",
+        "SOLID"
+      ],
+      "bbox_mm": [
+        -44.3300052544324,
+        39.9999999000132,
+        -33.3326629859402,
+        19.669994945567602,
+        59.00000000001321,
+        -12.932662885940198
+      ]
+    },
+    "screw": {
+      "path": "0:1:1:1./0:1:1:1:55./0:1:1:33:1.",
+      "names": [
+        "Следящий привод возвратно-поступательного движения",
+        "Следящий привод возвратно-поступательного движения",
+        "Винт А.М2-6gx9 ГОСТ 17473-80",
+        "Винт А.М2-6gx9 ГОСТ 17473-80",
+        "=>[0:1:1:34]",
+        "SOLID"
+      ],
+      "bbox_mm": [
+        -14.23000525539339,
+        47.5999999000002,
+        -40.117627755721344,
+        -10.4300050553929,
+        51.4000001000002,
+        -29.732662785503596
+      ]
+    },
+    "screw_product": "Винт А.М2-6gx9 ГОСТ 17473-80",
+    "source_step_entities": {
+      "rack": {
+        "product": 2336,
+        "next_assembly_usage_occurrence": 2362,
+        "axis2_placement_3d": 2309
+      },
+      "screw": {
+        "product": 1886,
+        "next_assembly_usage_occurrence": 3455,
+        "axis2_placement_3d": 3449,
+        "historical_tree_node": 191
+      }
+    },
+    "screw_axis_global": {
+      "point_mm": [
+        -12.330005155373538,
+        49.5000000000002,
+        -31.83266288593494
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  },
+  "before": {
+    "exact_brep_common_volume_mm3": 3.6392621034118173,
+    "historical_approximate_volume_mm3": 1.63,
+    "intersection_bbox_global_mm": [
+      -13.330005255377747,
+      48.4999999000002,
+      -33.332662985943,
+      -11.33000505536933,
+      50.5000001000002,
+      -30.33266278593739
+    ],
+    "intersection_center_of_mass_global_mm": [
+      -12.330005156869719,
+      49.49999999997952,
+      -31.83266288593494
+    ]
+  },
+  "correction": {
+    "type": "blind cylindrical clearance pocket cut only in rack",
+    "reason": "preserves screw length, head seating and placement; no kinematic or strength recalculation",
+    "pocket_axis": "+Z",
+    "pocket_center_xy_global_mm": [
+      -12.330005155373538,
+      49.5000000000002
+    ],
+    "pocket_diameter_mm": 2.1000002,
+    "pocket_z_range_global_mm": [
+      -33.432662985940205,
+      -29.632662785503594
+    ],
+    "radial_geometric_clearance_mm": 0.05,
+    "axial_geometric_clearance_mm": 0.1,
+    "rack_removed_volume_mm3": 4.605303792684026,
+    "manufacturing_note": "geometric anti-collision relief only; thread/tolerance designation was not calculated"
+  },
+  "after": {
+    "in_memory_common_volume_mm3": 0.0,
+    "in_memory_center_of_mass_mm": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reopened_export_residual_collision_count": 0,
+    "reopened_export_max_common_volume_mm3": 0.0,
+    "acceptance_threshold_mm3": 1e-08,
+    "corrected_rack_brep_valid": true,
+    "reopened_corrected_rack_brep_valid": true,
+    "reopened_leaf_count": 320
+  },
+  "scope": {
+    "source_model_modified": false,
+    "screw_shortened_or_moved": false,
+    "calculations_reperformed": false,
+    "other_components_modified": false
+  }
+}

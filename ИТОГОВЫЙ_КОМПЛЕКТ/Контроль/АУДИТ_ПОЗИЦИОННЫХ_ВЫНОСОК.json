@@ -1,0 +1,52 @@
+{
+  "schema": "okp.positional-leader-audit.v1",
+  "generated_at": "2026-09-14T00:00:00+03:00",
+  "status": "PASS",
+  "policy": {
+    "guard_around_estimated_text_box_mm": 1.0,
+    "minimum_baseline_clearance_mm": 2.0,
+    "minimum_horizontal_margin_each_side_mm": 2.0,
+    "maximum_join_gap_after_mm": 0.0000001,
+    "scope": "Only matched positional text, its shelf LINE and joined diagonal endpoint may change"
+  },
+  "drawings": [
+    {
+      "id": "overall_view",
+      "leaders_checked": 29,
+      "guarded_text_intersections_before": 0,
+      "guarded_text_intersections_after": 0,
+      "joint_gaps_after": 0,
+      "contact_sheet": "Увеличенный_контроль/overall_leader_contact_sheet.png",
+      "status": "PASS"
+    },
+    {
+      "id": "drive_assembly",
+      "leaders_checked": 12,
+      "guarded_text_intersections_before": 2,
+      "guarded_text_intersections_after": 0,
+      "joint_gaps_after": 0,
+      "contact_sheet": "Увеличенный_контроль/drive_leader_contact_sheet.png",
+      "status": "PASS"
+    },
+    {
+      "id": "reducer_assembly",
+      "leaders_checked": 51,
+      "guarded_text_intersections_before": 12,
+      "guarded_text_intersections_after": 0,
+      "joint_gaps_after": 0,
+      "shelves_flipped_away_from_diagonal_approach": 21,
+      "contact_sheet": "Увеличенный_контроль/reducer_leader_contact_sheet.png",
+      "status": "PASS"
+    }
+  ],
+  "totals": {
+    "leaders_checked": 92,
+    "guarded_text_intersections_before": 14,
+    "guarded_text_intersections_after": 0,
+    "joint_gaps_after": 0,
+    "entities_added_or_deleted": 0,
+    "changes_outside_selected_leaders": 0
+  },
+  "saved_output_reopen_audit": "PASS",
+  "enlarged_visual_control": "PASS"
+}
