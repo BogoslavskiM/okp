@@ -1,6 +1,6 @@
 {
   "schema": "okp.final-package-verification.v1",
-  "generated_at": "2026-09-14T12:25:32+03:00",
+  "generated_at": "2026-09-15T00:55:48+03:00",
   "package_root": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ",
   "policy": {
     "page_size_tolerance_mm": 0.15,
@@ -8,6 +8,8 @@
     "minimum_native_file_size_bytes": 4096,
     "raster_images_allowed": 0,
     "expected_documents": 8,
+    "rebuilt_candidate_groups": 5,
+    "candidate_identity_policy": "Five rebuilt drawing groups must match their passing candidate CDW/PDF artifacts byte-for-byte by SHA-256.",
     "note_reducer_position_37": "Position 37 is intentionally not required among standalone callouts because the supplied views occlude the coupling key."
   },
   "summary": {
@@ -17,6 +19,7 @@
       "all_native_files_exist_and_nonempty": true,
       "document_sets_exact": true,
       "required_control_files_present": true,
+      "rebuilt_candidate_files_match_approved_artifacts": true,
       "kompas_com_pass_if_requested": true
     },
     "pdf_documents_passed": 8,
@@ -35,8 +38,8 @@
   },
   "pdf_documents": [
     {
-      "file": "РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.pdf",
+      "file": "ВО_Чертёж_общего_вида.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\ВО_Чертёж_общего_вида.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -58,8 +61,8 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 454047,
-      "sha256": "321181b9dfb2efbf2add75fab78b7a072b065aa3655f5195d42f6efdc8fb80f1",
+      "size_bytes": 419277,
+      "sha256": "6aa9882e1b8d74ea9fb0c3e0150d83b657eabf928a2face8cebcb7a74ceccec8",
       "encrypted": false,
       "metadata": {
         "format": "PDF 1.6",
@@ -90,14 +93,14 @@
           ],
           "size_ok": true,
           "rotation_degrees": 0,
-          "text_characters": 1077,
-          "text_blocks": 71,
+          "text_characters": 1202,
+          "text_blocks": 69,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 50063,
+          "vector_drawing_groups": 49669,
           "raster_image_occurrences": 0
         }
       ],
-      "total_text_characters": 1077,
+      "total_text_characters": 1202,
       "expected_text": {
         "РЛ5.41.00.00.00 ВО": true,
         "Чертёж общего вида": true,
@@ -127,8 +130,8 @@
       "id": "overall_view"
     },
     {
-      "file": "РЛ5.41.00.00.00_СБ_Привод.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.00.00.00_СБ_Привод.pdf",
+      "file": "СБ_Привод.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\СБ_Привод.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -150,8 +153,8 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 383958,
-      "sha256": "bd27b9fd50821e9f53228f8eed2a12d8dc8e1fdcc0d99d42a6a1a0fe2a5f15c2",
+      "size_bytes": 180279,
+      "sha256": "759fbe95771b5ae2b1f4dfe58c16692d594c5df2be55425c826d6e79da638ff3",
       "encrypted": false,
       "metadata": {
         "format": "PDF 1.6",
@@ -159,10 +162,10 @@
         "author": "",
         "subject": "",
         "keywords": "",
-        "creator": "",
+        "creator": "KOMPAS-3D",
         "producer": "Haru Free PDF Library 2.3.0RC2",
-        "creationDate": "",
-        "modDate": "",
+        "creationDate": "D:20260914195800+03'00'",
+        "modDate": "D:20260914195800+03'00'",
         "trapped": "",
         "encryption": null
       },
@@ -182,14 +185,14 @@
           ],
           "size_ok": true,
           "rotation_degrees": 0,
-          "text_characters": 608,
-          "text_blocks": 39,
+          "text_characters": 708,
+          "text_blocks": 50,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 7541,
+          "vector_drawing_groups": 6508,
           "raster_image_occurrences": 0
         }
       ],
-      "total_text_characters": 608,
+      "total_text_characters": 708,
       "expected_text": {
         "РЛ5.41.00.00.00 СБ": true,
         "Сборочный чертёж": true,
@@ -219,8 +222,8 @@
       "id": "drive_assembly"
     },
     {
-      "file": "РЛ5.41.01.00.00_СБ_Редуктор.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.01.00.00_СБ_Редуктор.pdf",
+      "file": "СБ_Редуктор.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\СБ_Редуктор.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -242,8 +245,8 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 579346,
-      "sha256": "719ac7081f0e977b23a194c76e964a82ad86544fea34e1fa14474a5d0bf726b4",
+      "size_bytes": 552733,
+      "sha256": "ea298926c94d4e001e6796ed2052e39e62807857a683da9be27721c56047148e",
       "encrypted": false,
       "metadata": {
         "format": "PDF 1.6",
@@ -274,14 +277,14 @@
           ],
           "size_ok": true,
           "rotation_degrees": 0,
-          "text_characters": 996,
-          "text_blocks": 90,
+          "text_characters": 1119,
+          "text_blocks": 84,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 75485,
+          "vector_drawing_groups": 74817,
           "raster_image_occurrences": 0
         }
       ],
-      "total_text_characters": 996,
+      "total_text_characters": 1119,
       "expected_text": {
         "РЛ5.41.01.00.00 СБ": true,
         "Сборочный чертёж": true,
@@ -422,8 +425,8 @@
       "id": "reducer_assembly"
     },
     {
-      "file": "РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.pdf",
+      "file": "ГЧ_Габаритный_чертёж.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\ГЧ_Габаритный_чертёж.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -445,8 +448,8 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 237432,
-      "sha256": "4d92b32515c3c9c7e247155c353e55a998a54c463eb5a0cc2cd4add0ad7249b1",
+      "size_bytes": 191853,
+      "sha256": "95f2e9dfcc53dfdd4460fa8f521fafda9c2295510750e41323076daa55a24bb8",
       "encrypted": false,
       "metadata": {
         "format": "PDF 1.6",
@@ -477,14 +480,14 @@
           ],
           "size_ok": true,
           "rotation_degrees": 0,
-          "text_characters": 1009,
+          "text_characters": 1051,
           "text_blocks": 45,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 10333,
+          "vector_drawing_groups": 8627,
           "raster_image_occurrences": 0
         }
       ],
-      "total_text_characters": 1009,
+      "total_text_characters": 1051,
       "expected_text": {
         "РЛ5.41.00.00.00 ГЧ": true,
         "Габаритный чертёж": true,
@@ -522,8 +525,8 @@
       "id": "overall_dimensions"
     },
     {
-      "file": "РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.pdf",
+      "file": "К3_Схема_кинематическая_принципиальная.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\К3_Схема_кинематическая_принципиальная.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -612,8 +615,8 @@
       "id": "kinematic_scheme"
     },
     {
-      "file": "РЛ5.41.00.00.00_Е1_Схема_деления_изделия.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.00.00.00_Е1_Схема_деления_изделия.pdf",
+      "file": "Е1_Схема_деления_изделия.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\Е1_Схема_деления_изделия.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -635,8 +638,8 @@
         "specification_positions": true
       },
       "issues": [],
-      "size_bytes": 160709,
-      "sha256": "54a0592c2f4cb49e29c8bdbe537775ab5a789167e465f0000f8431985e5396ba",
+      "size_bytes": 196538,
+      "sha256": "9d5bc85b291c56f7fd19756a368606b13ca5faa03bcc8cfcecec70323a56f63f",
       "encrypted": false,
       "metadata": {
         "format": "PDF 1.6",
@@ -644,10 +647,10 @@
         "author": "",
         "subject": "",
         "keywords": "",
-        "creator": "",
+        "creator": "KOMPAS-3D",
         "producer": "Haru Free PDF Library 2.3.0RC2",
-        "creationDate": "",
-        "modDate": "",
+        "creationDate": "D:20260914195711+03'00'",
+        "modDate": "D:20260914195711+03'00'",
         "trapped": "",
         "encryption": null
       },
@@ -667,14 +670,14 @@
           ],
           "size_ok": true,
           "rotation_degrees": 0,
-          "text_characters": 2944,
-          "text_blocks": 108,
+          "text_characters": 2928,
+          "text_blocks": 107,
           "text_blocks_outside_media_box": [],
-          "vector_drawing_groups": 1339,
+          "vector_drawing_groups": 1408,
           "raster_image_occurrences": 0
         }
       ],
-      "total_text_characters": 2944,
+      "total_text_characters": 2928,
       "expected_text": {
         "РЛ5.41.00.00.00 Е1": true,
         "Схема деления изделия на составные части": true,
@@ -694,15 +697,15 @@
         "Патрикеева А.А.": true
       },
       "forbidden_text_patterns_absent": {},
-      "first_nonempty_line": "РЛ5.41.00.00.00",
+      "first_nonempty_line": "Следящий привод",
       "position_text_check": null,
       "specification_position_check": null,
       "pass": true,
       "id": "structural_division_scheme"
     },
     {
-      "file": "РЛ5.41.00.00.00_Спецификация_привода.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.00.00.00_Спецификация_привода.pdf",
+      "file": "Спецификация_привода.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\Спецификация_привода.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -808,8 +811,8 @@
       "id": "drive_specification"
     },
     {
-      "file": "РЛ5.41.01.00.00_Спецификация_редуктора.pdf",
-      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\РЛ5.41.01.00.00_Спецификация_редуктора.pdf",
+      "file": "Спецификация_редуктора.pdf",
+      "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\PDF\\Спецификация_редуктора.pdf",
       "exists": true,
       "checks": {
         "exists": true,
@@ -1048,8 +1051,8 @@
       "id": "overall_view",
       "file": "РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.cdw",
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Нативные_КОМПАС\\РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.cdw",
-      "size_bytes": 1060191,
-      "sha256": "a69ba30dd1ebc2d177df46d9d98c271f01d9ca67599602779409c6d31d0632c7",
+      "size_bytes": 1072866,
+      "sha256": "9524431d645e957d480c9eef5712c8e10273117848374eba2f85aa1516d501b6",
       "checks": {
         "exists": true,
         "nonempty_and_plausible_size": true,
@@ -1061,8 +1064,8 @@
       "id": "drive_assembly",
       "file": "РЛ5.41.00.00.00_СБ_Привод.cdw",
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Нативные_КОМПАС\\РЛ5.41.00.00.00_СБ_Привод.cdw",
-      "size_bytes": 577193,
-      "sha256": "fd6230d6d69a86def002498ed69b9b59f120f50331cf24a9dd05e5e9d0bddc48",
+      "size_bytes": 1257821,
+      "sha256": "288b9a13b2102c7706c7d5274540241a818166b7592f563d0266bface316e940",
       "checks": {
         "exists": true,
         "nonempty_and_plausible_size": true,
@@ -1074,8 +1077,8 @@
       "id": "reducer_assembly",
       "file": "РЛ5.41.01.00.00_СБ_Редуктор.cdw",
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Нативные_КОМПАС\\РЛ5.41.01.00.00_СБ_Редуктор.cdw",
-      "size_bytes": 1862397,
-      "sha256": "38ae6d9b4d094362403e275f412962ce343cc4f630f8d3c238a2fd809ebf372a",
+      "size_bytes": 1863598,
+      "sha256": "c12d9dff5d1d16129572bec4372c8e1dad692b9830ffb6dcdf56af7854bec345",
       "checks": {
         "exists": true,
         "nonempty_and_plausible_size": true,
@@ -1087,8 +1090,8 @@
       "id": "overall_dimensions",
       "file": "РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.cdw",
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Нативные_КОМПАС\\РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.cdw",
-      "size_bytes": 240175,
-      "sha256": "850e9c4b02dcb6dba4a957a5f25124c19c60a14a11907d22cd640f28aa90683e",
+      "size_bytes": 794140,
+      "sha256": "b1506252ee9f03a7ca5bc0f25da63630923f7ae461852e0d515a4e68a2edff3b",
       "checks": {
         "exists": true,
         "nonempty_and_plausible_size": true,
@@ -1113,8 +1116,8 @@
       "id": "structural_division_scheme",
       "file": "РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Нативные_КОМПАС\\РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
-      "size_bytes": 109719,
-      "sha256": "27cd3ccad74da10255c094092f34f63954db540578d178da0d4b89222a77afc3",
+      "size_bytes": 117537,
+      "sha256": "7ddb2745490080bd0626e31a08b88094065199eb1df6f8cecde991b8c5ba2874",
       "checks": {
         "exists": true,
         "nonempty_and_plausible_size": true,
@@ -1149,6 +1152,174 @@
       "pass": true
     }
   ],
+  "candidate_release_identity": {
+    "method": "passing QA report with declared artifact paths, report freshness, and byte-for-byte SHA-256 equality of candidate/final CDW and PDF",
+    "groups_total": 5,
+    "groups_passed": 5,
+    "groups": [
+      {
+        "id": "overall_view",
+        "label": "ВО",
+        "candidate_native": ".codex-work/semantic_rebuild/overall_semantic_candidate.cdw",
+        "candidate_pdf": ".codex-work/semantic_rebuild/overall_semantic_candidate.pdf",
+        "report": ".codex-work/semantic_rebuild/overall_semantic_candidate.report.json",
+        "final_native": "Нативные_КОМПАС/РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.cdw",
+        "final_pdf": "PDF/ВО_Чертёж_общего_вида.pdf",
+        "report_gate": "pass",
+        "report_sha256": "2853c80058d798daa15654745e938ce857474f206dfd39e3eb81a6cdb1942182",
+        "report_error": null,
+        "declared_candidate_native": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\semantic_rebuild\\overall_semantic_candidate.cdw",
+        "declared_candidate_pdf": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\semantic_rebuild\\overall_semantic_candidate.pdf",
+        "sha256": {
+          "candidate_native": "9524431d645e957d480c9eef5712c8e10273117848374eba2f85aa1516d501b6",
+          "candidate_pdf": "6aa9882e1b8d74ea9fb0c3e0150d83b657eabf928a2face8cebcb7a74ceccec8",
+          "report": null,
+          "final_native": "9524431d645e957d480c9eef5712c8e10273117848374eba2f85aa1516d501b6",
+          "final_pdf": "6aa9882e1b8d74ea9fb0c3e0150d83b657eabf928a2face8cebcb7a74ceccec8"
+        },
+        "checks": {
+          "all_files_exist": true,
+          "report_is_valid_json_object": true,
+          "report_gate_is_true": true,
+          "report_declares_candidate_native": true,
+          "report_declares_candidate_pdf": true,
+          "report_not_older_than_candidate_artifacts": true,
+          "final_native_sha256_matches_candidate": true,
+          "final_pdf_sha256_matches_candidate": true
+        },
+        "pass": true
+      },
+      {
+        "id": "overall_dimensions",
+        "label": "ГЧ",
+        "candidate_native": ".codex-work/gch_semantic_candidate.cdw",
+        "candidate_pdf": ".codex-work/gch_semantic_candidate.pdf",
+        "report": ".codex-work/gch_semantic_candidate.json",
+        "final_native": "Нативные_КОМПАС/РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.cdw",
+        "final_pdf": "PDF/ГЧ_Габаритный_чертёж.pdf",
+        "report_gate": "pass",
+        "report_sha256": "d726ed0b4404e6c506754e8a29a9358df87f862c1e93fe6e75ae9b1e3037d667",
+        "report_error": null,
+        "declared_candidate_native": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\gch_semantic_candidate.cdw",
+        "declared_candidate_pdf": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\gch_semantic_candidate.pdf",
+        "sha256": {
+          "candidate_native": "b1506252ee9f03a7ca5bc0f25da63630923f7ae461852e0d515a4e68a2edff3b",
+          "candidate_pdf": "95f2e9dfcc53dfdd4460fa8f521fafda9c2295510750e41323076daa55a24bb8",
+          "report": null,
+          "final_native": "b1506252ee9f03a7ca5bc0f25da63630923f7ae461852e0d515a4e68a2edff3b",
+          "final_pdf": "95f2e9dfcc53dfdd4460fa8f521fafda9c2295510750e41323076daa55a24bb8"
+        },
+        "checks": {
+          "all_files_exist": true,
+          "report_is_valid_json_object": true,
+          "report_gate_is_true": true,
+          "report_declares_candidate_native": true,
+          "report_declares_candidate_pdf": true,
+          "report_not_older_than_candidate_artifacts": true,
+          "final_native_sha256_matches_candidate": true,
+          "final_pdf_sha256_matches_candidate": true
+        },
+        "pass": true
+      },
+      {
+        "id": "structural_division_scheme",
+        "label": "Е1",
+        "candidate_native": ".codex-work/e1_semantic_candidate.cdw",
+        "candidate_pdf": ".codex-work/e1_semantic_candidate.pdf",
+        "report": ".codex-work/e1_semantic_candidate.json",
+        "final_native": "Нативные_КОМПАС/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
+        "final_pdf": "PDF/Е1_Схема_деления_изделия.pdf",
+        "report_gate": "pass",
+        "report_sha256": "d8ba420d50dfba6878fca447ffe9096ba56a4bd01b39ea5ea5350afe3d715dfd",
+        "report_error": null,
+        "declared_candidate_native": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\e1_semantic_candidate.cdw",
+        "declared_candidate_pdf": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\e1_semantic_candidate.pdf",
+        "sha256": {
+          "candidate_native": "7ddb2745490080bd0626e31a08b88094065199eb1df6f8cecde991b8c5ba2874",
+          "candidate_pdf": "9d5bc85b291c56f7fd19756a368606b13ca5faa03bcc8cfcecec70323a56f63f",
+          "report": null,
+          "final_native": "7ddb2745490080bd0626e31a08b88094065199eb1df6f8cecde991b8c5ba2874",
+          "final_pdf": "9d5bc85b291c56f7fd19756a368606b13ca5faa03bcc8cfcecec70323a56f63f"
+        },
+        "checks": {
+          "all_files_exist": true,
+          "report_is_valid_json_object": true,
+          "report_gate_is_true": true,
+          "report_declares_candidate_native": true,
+          "report_declares_candidate_pdf": true,
+          "report_not_older_than_candidate_artifacts": true,
+          "final_native_sha256_matches_candidate": true,
+          "final_pdf_sha256_matches_candidate": true
+        },
+        "pass": true
+      },
+      {
+        "id": "drive_assembly",
+        "label": "СБ привода",
+        "candidate_native": ".codex-work/drive_semantic_candidate/drive_semantic_stage2.cdw",
+        "candidate_pdf": ".codex-work/drive_semantic_candidate/drive_semantic_stage2.pdf",
+        "report": ".codex-work/drive_semantic_candidate/drive_semantic_stage2_report.json",
+        "final_native": "Нативные_КОМПАС/РЛ5.41.00.00.00_СБ_Привод.cdw",
+        "final_pdf": "PDF/СБ_Привод.pdf",
+        "report_gate": "release_ready",
+        "report_sha256": "7d1d02b32f03c38cb4ddf06e9ecb9036dc9c8467051582d8a480f50446ec969c",
+        "report_error": null,
+        "declared_candidate_native": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\drive_semantic_candidate\\drive_semantic_stage2.cdw",
+        "declared_candidate_pdf": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\drive_semantic_candidate\\drive_semantic_stage2.pdf",
+        "sha256": {
+          "candidate_native": "288b9a13b2102c7706c7d5274540241a818166b7592f563d0266bface316e940",
+          "candidate_pdf": "759fbe95771b5ae2b1f4dfe58c16692d594c5df2be55425c826d6e79da638ff3",
+          "report": null,
+          "final_native": "288b9a13b2102c7706c7d5274540241a818166b7592f563d0266bface316e940",
+          "final_pdf": "759fbe95771b5ae2b1f4dfe58c16692d594c5df2be55425c826d6e79da638ff3"
+        },
+        "checks": {
+          "all_files_exist": true,
+          "report_is_valid_json_object": true,
+          "report_gate_is_true": true,
+          "report_declares_candidate_native": true,
+          "report_declares_candidate_pdf": true,
+          "report_not_older_than_candidate_artifacts": true,
+          "final_native_sha256_matches_candidate": true,
+          "final_pdf_sha256_matches_candidate": true
+        },
+        "pass": true
+      },
+      {
+        "id": "reducer_assembly",
+        "label": "СБ редуктора",
+        "candidate_native": ".codex-work/semantic_rebuild/reducer_semantic_candidate.cdw",
+        "candidate_pdf": ".codex-work/semantic_rebuild/reducer_semantic_candidate.pdf",
+        "report": ".codex-work/semantic_rebuild/reducer_semantic_candidate.report.json",
+        "final_native": "Нативные_КОМПАС/РЛ5.41.01.00.00_СБ_Редуктор.cdw",
+        "final_pdf": "PDF/СБ_Редуктор.pdf",
+        "report_gate": "pass",
+        "report_sha256": "22328871094eb64668f351457894a5c005d5e406be7f295ac26cdfdee124df24",
+        "report_error": null,
+        "declared_candidate_native": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\semantic_rebuild\\reducer_semantic_candidate.cdw",
+        "declared_candidate_pdf": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\semantic_rebuild\\reducer_semantic_candidate.pdf",
+        "sha256": {
+          "candidate_native": "c12d9dff5d1d16129572bec4372c8e1dad692b9830ffb6dcdf56af7854bec345",
+          "candidate_pdf": "ea298926c94d4e001e6796ed2052e39e62807857a683da9be27721c56047148e",
+          "report": null,
+          "final_native": "c12d9dff5d1d16129572bec4372c8e1dad692b9830ffb6dcdf56af7854bec345",
+          "final_pdf": "ea298926c94d4e001e6796ed2052e39e62807857a683da9be27721c56047148e"
+        },
+        "checks": {
+          "all_files_exist": true,
+          "report_is_valid_json_object": true,
+          "report_gate_is_true": true,
+          "report_declares_candidate_native": true,
+          "report_declares_candidate_pdf": true,
+          "report_not_older_than_candidate_artifacts": true,
+          "final_native_sha256_matches_candidate": true,
+          "final_pdf_sha256_matches_candidate": true
+        },
+        "pass": true
+      }
+    ],
+    "pass": true
+  },
   "control_files": {
     "files": [
       {
@@ -1160,13 +1331,13 @@
       {
         "file": "ОТЧЁТ_НОРМОКОНТРОЛЯ.md",
         "exists": true,
-        "size_bytes": 7201,
+        "size_bytes": 6172,
         "nonempty": true
       },
       {
         "file": "РЕЕСТР_СПОРНЫХ_ИНЖЕНЕРНЫХ_ДАННЫХ.md",
         "exists": true,
-        "size_bytes": 614,
+        "size_bytes": 3880,
         "nonempty": true
       },
       {
@@ -1184,7 +1355,7 @@
       {
         "file": "ИТОГОВЫЙ_ЛИСТ_РЕШЕНИЙ_И_КОНТРОЛЯ.md",
         "exists": true,
-        "size_bytes": 3889,
+        "size_bytes": 986,
         "nonempty": true
       },
       {
@@ -1207,301 +1378,51 @@
     "pass": true
   },
   "kompas_com_inventory": {
-    "requested": true,
-    "available": true,
-    "documents": [
-      {
-        "id": "overall_view",
-        "file": "РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.cdw",
-        "extension": ".cdw",
-        "opened_read_only": true,
-        "expected_document_type": 1,
-        "expected_layout_sheets": 1,
-        "name": "РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.cdw",
-        "document_type": 1,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 841.0,
-            "height_mm": 594.0,
-            "vertical": false
-          }
-        ],
-        "view_count": 1,
-        "object_count": 54228,
-        "native_raster_count": 0,
-        "checks": {
-          "read_only": true,
-          "document_type_is_drawing": true,
-          "exactly_one_layout_sheet": true,
-          "native_sheet_size_matches_manifest": true,
-          "has_drawing_objects": true,
-          "no_native_rasters": true
-        },
-        "pass": true
-      },
-      {
-        "id": "drive_assembly",
-        "file": "РЛ5.41.00.00.00_СБ_Привод.cdw",
-        "extension": ".cdw",
-        "opened_read_only": true,
-        "expected_document_type": 1,
-        "expected_layout_sheets": 1,
-        "name": "РЛ5.41.00.00.00_СБ_Привод.cdw",
-        "document_type": 1,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 594.0,
-            "height_mm": 420.0,
-            "vertical": false
-          }
-        ],
-        "view_count": 1,
-        "object_count": 7543,
-        "native_raster_count": 0,
-        "checks": {
-          "read_only": true,
-          "document_type_is_drawing": true,
-          "exactly_one_layout_sheet": true,
-          "native_sheet_size_matches_manifest": true,
-          "has_drawing_objects": true,
-          "no_native_rasters": true
-        },
-        "pass": true
-      },
-      {
-        "id": "reducer_assembly",
-        "file": "РЛ5.41.01.00.00_СБ_Редуктор.cdw",
-        "extension": ".cdw",
-        "opened_read_only": true,
-        "expected_document_type": 1,
-        "expected_layout_sheets": 1,
-        "name": "РЛ5.41.01.00.00_СБ_Редуктор.cdw",
-        "document_type": 1,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 841.0,
-            "height_mm": 594.0,
-            "vertical": false
-          }
-        ],
-        "view_count": 1,
-        "object_count": 100476,
-        "native_raster_count": 0,
-        "checks": {
-          "read_only": true,
-          "document_type_is_drawing": true,
-          "exactly_one_layout_sheet": true,
-          "native_sheet_size_matches_manifest": true,
-          "has_drawing_objects": true,
-          "no_native_rasters": true
-        },
-        "pass": true
-      },
-      {
-        "id": "overall_dimensions",
-        "file": "РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.cdw",
-        "extension": ".cdw",
-        "opened_read_only": true,
-        "expected_document_type": 1,
-        "expected_layout_sheets": 1,
-        "name": "РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.cdw",
-        "document_type": 1,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 594.0,
-            "height_mm": 420.0,
-            "vertical": false
-          }
-        ],
-        "view_count": 1,
-        "object_count": 10337,
-        "native_raster_count": 0,
-        "checks": {
-          "read_only": true,
-          "document_type_is_drawing": true,
-          "exactly_one_layout_sheet": true,
-          "native_sheet_size_matches_manifest": true,
-          "has_drawing_objects": true,
-          "no_native_rasters": true
-        },
-        "pass": true
-      },
-      {
-        "id": "kinematic_scheme",
-        "file": "РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.cdw",
-        "extension": ".cdw",
-        "opened_read_only": true,
-        "expected_document_type": 1,
-        "expected_layout_sheets": 1,
-        "name": "РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.cdw",
-        "document_type": 1,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 594.0,
-            "height_mm": 420.0,
-            "vertical": false
-          }
-        ],
-        "view_count": 1,
-        "object_count": 1340,
-        "native_raster_count": 0,
-        "checks": {
-          "read_only": true,
-          "document_type_is_drawing": true,
-          "exactly_one_layout_sheet": true,
-          "native_sheet_size_matches_manifest": true,
-          "has_drawing_objects": true,
-          "no_native_rasters": true
-        },
-        "pass": true
-      },
-      {
-        "id": "structural_division_scheme",
-        "file": "РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
-        "extension": ".cdw",
-        "opened_read_only": true,
-        "expected_document_type": 1,
-        "expected_layout_sheets": 1,
-        "name": "РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
-        "document_type": 1,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 841.0,
-            "height_mm": 594.0,
-            "vertical": false
-          }
-        ],
-        "view_count": 1,
-        "object_count": 1288,
-        "native_raster_count": 0,
-        "checks": {
-          "read_only": true,
-          "document_type_is_drawing": true,
-          "exactly_one_layout_sheet": true,
-          "native_sheet_size_matches_manifest": true,
-          "has_drawing_objects": true,
-          "no_native_rasters": true
-        },
-        "pass": true
-      },
-      {
-        "id": "drive_specification",
-        "file": "РЛ5.41.00.00.00_Спецификация_привода.spw",
-        "extension": ".spw",
-        "opened_read_only": true,
-        "expected_document_type": 3,
-        "expected_layout_sheets": 2,
-        "name": "РЛ5.41.00.00.00_Спецификация_привода.spw",
-        "document_type": 3,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 210.0,
-            "height_mm": 297.0,
-            "vertical": true
-          },
-          {
-            "index": 1,
-            "width_mm": 210.0,
-            "height_mm": 297.0,
-            "vertical": true
-          }
-        ],
-        "checks": {
-          "read_only": true,
-          "document_type_is_specification": true,
-          "layout_sheet_count_matches_pdf_pages": true,
-          "all_native_sheets_are_a4_portrait": true
-        },
-        "pass": true
-      },
-      {
-        "id": "reducer_specification",
-        "file": "РЛ5.41.01.00.00_Спецификация_редуктора.spw",
-        "extension": ".spw",
-        "opened_read_only": true,
-        "expected_document_type": 3,
-        "expected_layout_sheets": 3,
-        "name": "РЛ5.41.01.00.00_Спецификация_редуктора.spw",
-        "document_type": 3,
-        "layout_sheets": [
-          {
-            "index": 0,
-            "width_mm": 210.0,
-            "height_mm": 297.0,
-            "vertical": true
-          },
-          {
-            "index": 1,
-            "width_mm": 210.0,
-            "height_mm": 297.0,
-            "vertical": true
-          },
-          {
-            "index": 2,
-            "width_mm": 210.0,
-            "height_mm": 297.0,
-            "vertical": true
-          }
-        ],
-        "checks": {
-          "read_only": true,
-          "document_type_is_specification": true,
-          "layout_sheet_count_matches_pdf_pages": true,
-          "all_native_sheets_are_a4_portrait": true
-        },
-        "pass": true
-      }
-    ],
-    "issues": [],
-    "pass": true
+    "requested": false,
+    "available": null,
+    "pass": null,
+    "note": "Use --with-kompas-com for optional read-only native inventory."
   },
   "hash_manifest": {
     "algorithm": "SHA-256",
     "files": [
       {
-        "path": "PDF/РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.pdf",
-        "size_bytes": 454047,
-        "sha256": "321181b9dfb2efbf2add75fab78b7a072b065aa3655f5195d42f6efdc8fb80f1"
+        "path": "PDF/ВО_Чертёж_общего_вида.pdf",
+        "size_bytes": 419277,
+        "sha256": "6aa9882e1b8d74ea9fb0c3e0150d83b657eabf928a2face8cebcb7a74ceccec8"
       },
       {
-        "path": "PDF/РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.pdf",
-        "size_bytes": 237432,
-        "sha256": "4d92b32515c3c9c7e247155c353e55a998a54c463eb5a0cc2cd4add0ad7249b1"
+        "path": "PDF/ГЧ_Габаритный_чертёж.pdf",
+        "size_bytes": 191853,
+        "sha256": "95f2e9dfcc53dfdd4460fa8f521fafda9c2295510750e41323076daa55a24bb8"
       },
       {
-        "path": "PDF/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.pdf",
-        "size_bytes": 160709,
-        "sha256": "54a0592c2f4cb49e29c8bdbe537775ab5a789167e465f0000f8431985e5396ba"
+        "path": "PDF/Е1_Схема_деления_изделия.pdf",
+        "size_bytes": 196538,
+        "sha256": "9d5bc85b291c56f7fd19756a368606b13ca5faa03bcc8cfcecec70323a56f63f"
       },
       {
-        "path": "PDF/РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.pdf",
+        "path": "PDF/К3_Схема_кинематическая_принципиальная.pdf",
         "size_bytes": 191387,
         "sha256": "545cffb34aa2301fb14065425e9159fcc88776da2a72e0dccf0918881f602422"
       },
       {
-        "path": "PDF/РЛ5.41.00.00.00_СБ_Привод.pdf",
-        "size_bytes": 383958,
-        "sha256": "bd27b9fd50821e9f53228f8eed2a12d8dc8e1fdcc0d99d42a6a1a0fe2a5f15c2"
+        "path": "PDF/СБ_Привод.pdf",
+        "size_bytes": 180279,
+        "sha256": "759fbe95771b5ae2b1f4dfe58c16692d594c5df2be55425c826d6e79da638ff3"
       },
       {
-        "path": "PDF/РЛ5.41.00.00.00_Спецификация_привода.pdf",
+        "path": "PDF/СБ_Редуктор.pdf",
+        "size_bytes": 552733,
+        "sha256": "ea298926c94d4e001e6796ed2052e39e62807857a683da9be27721c56047148e"
+      },
+      {
+        "path": "PDF/Спецификация_привода.pdf",
         "size_bytes": 112384,
         "sha256": "9a53af0e1533e1b548e79bd4172a1410271733db3a579ca60ec0644e91107a30"
       },
       {
-        "path": "PDF/РЛ5.41.01.00.00_СБ_Редуктор.pdf",
-        "size_bytes": 579346,
-        "sha256": "719ac7081f0e977b23a194c76e964a82ad86544fea34e1fa14474a5d0bf726b4"
-      },
-      {
-        "path": "PDF/РЛ5.41.01.00.00_Спецификация_редуктора.pdf",
+        "path": "PDF/Спецификация_редуктора.pdf",
         "size_bytes": 124687,
         "sha256": "c0d47a829cec4318d9fa122acea1a6f23a48442b6e501a588068b0b90f9ac7be"
       },
@@ -1521,11 +1442,6 @@
         "sha256": "1b8db3dacddd83a8b19be6e9f8eb202bb4e85415f62a1d9557140b1db113da9c"
       },
       {
-        "path": "Контроль/ИТОГОВЫЙ_ЛИСТ_РЕШЕНИЙ_И_КОНТРОЛЯ.md",
-        "size_bytes": 3889,
-        "sha256": "246823081a6ab1f0db9648933f80e80f1faa9cf1227b41712ccc44edb9252637"
-      },
-      {
         "path": "Контроль/КАРТА_ПЕРЕНУМЕРАЦИИ_РЕДУКТОРА.json",
         "size_bytes": 52498,
         "sha256": "e81a056260b14f3ed8f3d64831410da01b0676ce92205a7eb7788f779299b2a5"
@@ -1536,19 +1452,9 @@
         "sha256": "4dcb8e99100c475807370cf0b091e0e63f8d89b9bc84e55a06e3f8b01c9f1f13"
       },
       {
-        "path": "Контроль/ОТЧЁТ_НОРМОКОНТРОЛЯ.md",
-        "size_bytes": 7201,
-        "sha256": "1bad553baf0a4ce18b6c8d8a44fde7d3f8d5e2aa6e00ae2ce8ede87f3febe96b"
-      },
-      {
         "path": "Контроль/ПРОТОКОЛ_ПРОВЕРКИ_МОДЕЛИ.json",
         "size_bytes": 4544,
         "sha256": "31d4efd6bdc1fdc2cf5c2aa73a775d77f926d32855a37e07145e73d68cc0969a"
-      },
-      {
-        "path": "Контроль/РЕЕСТР_СПОРНЫХ_ИНЖЕНЕРНЫХ_ДАННЫХ.md",
-        "size_bytes": 614,
-        "sha256": "6e70f64d5c5685a345670652af5f527ba98fd4745596c338cf8a3c18cd283e47"
       },
       {
         "path": "Контроль/Увеличенный_контроль/drive_leader_contact_sheet.png",
@@ -1557,13 +1463,13 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/drive_release_p1.png",
-        "size_bytes": 367947,
-        "sha256": "8fe54d58ef9647b1ca41f6a71093d333825374163faf9375555a81ae95d1b04b"
+        "size_bytes": 331210,
+        "sha256": "41a2b99737a024200688c84f2b1ae93de6a057bb336183e32aec07b4289e170c"
       },
       {
         "path": "Контроль/Увеличенный_контроль/drive_stamp.png",
-        "size_bytes": 60290,
-        "sha256": "ac1076722ee27fcc63497d291b7e6646055b80997905cdf2d57470dd347cb217"
+        "size_bytes": 78188,
+        "sha256": "f05ee774bfedece2a5cc046a06eb9526de4a67b14c4ce2389dabd0a6cccf3a75"
       },
       {
         "path": "Контроль/Увеличенный_контроль/e1_stamp.png",
@@ -1572,13 +1478,13 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/gabarit_release_p1.png",
-        "size_bytes": 449128,
-        "sha256": "7f830dc4f2a8d1abaf6d9d7d4026eede8b2809aad9d8362ec0e765476ee653e5"
+        "size_bytes": 418321,
+        "sha256": "157496fb43744797404b7546bfca7b3e3ae897e8d19274395ed4c1ec2155811e"
       },
       {
         "path": "Контроль/Увеличенный_контроль/gabarit_stamp.png",
-        "size_bytes": 63682,
-        "sha256": "006cc1dfbf5c45b20257d9205c8e70dd0fb1f0685e03cf0f15a719d1cc8f6aca"
+        "size_bytes": 76802,
+        "sha256": "96f507a44314bc740c0c5cee8f2e3b31a04c426d18a8d472dd2f5974e07dd8ef"
       },
       {
         "path": "Контроль/Увеличенный_контроль/kinematic_release_p1.png",
@@ -1597,13 +1503,13 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/overall_release_p1.png",
-        "size_bytes": 931664,
-        "sha256": "af409db9cfb14f690b8c93d3a527d2db731f48ee3933acdbaaa6e13e172a1de5"
+        "size_bytes": 957462,
+        "sha256": "405e6d0b0cc0316398473e9b0a6febf657db106bb74969cd49cea4d1c71b196d"
       },
       {
         "path": "Контроль/Увеличенный_контроль/overall_stamp.png",
-        "size_bytes": 52075,
-        "sha256": "da2384ac8a17072d3149af6842fe63e43135df084c357fed302463de637cc5a1"
+        "size_bytes": 73970,
+        "sha256": "c0c88dcdc8373040a31abf53da1477253750d1a80e84db1114a3e116e1838cfc"
       },
       {
         "path": "Контроль/Увеличенный_контроль/reducer_leader_contact_sheet.png",
@@ -1612,13 +1518,13 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/reducer_release_p1.png",
-        "size_bytes": 1111586,
-        "sha256": "df75ae2f23243a66b9a104878f317bfabed2e6fbd9391680e068a4a6d723324a"
+        "size_bytes": 1130646,
+        "sha256": "a9d5fea0913c835e2d8f565eb9999c2069473ebe72eb37251bed7387423a540b"
       },
       {
         "path": "Контроль/Увеличенный_контроль/reducer_stamp.png",
-        "size_bytes": 45927,
-        "sha256": "349d74f823bb9c857899531acd1d09e91aa591b905b25a0cc689924362c2f867"
+        "size_bytes": 67029,
+        "sha256": "cb026482060f312a080214208c4cb9695faca11992c202b8cde5932107a11941"
       },
       {
         "path": "Контроль/Увеличенный_контроль/Привод_спецификация_p1.png",
@@ -1647,8 +1553,8 @@
       },
       {
         "path": "Контроль/Увеличенный_контроль/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.png",
-        "size_bytes": 487433,
-        "sha256": "ceb972bf4028ea7f25bfde8c212fb06cdf3787df1f94c382f96601f907131e4f"
+        "size_bytes": 569904,
+        "sha256": "8cbeb27750e9a1531f066619eca0f702a0e244e2ca19ec396513eb25985d3b40"
       },
       {
         "path": "Модель/РЛ5.41.00.00.00_Модель_STEP_D27_исправлена.stp",
@@ -1657,18 +1563,18 @@
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_ВО_Чертёж_общего_вида.cdw",
-        "size_bytes": 1060191,
-        "sha256": "a69ba30dd1ebc2d177df46d9d98c271f01d9ca67599602779409c6d31d0632c7"
+        "size_bytes": 1072866,
+        "sha256": "9524431d645e957d480c9eef5712c8e10273117848374eba2f85aa1516d501b6"
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_ГЧ_Габаритный_чертёж.cdw",
-        "size_bytes": 240175,
-        "sha256": "850e9c4b02dcb6dba4a957a5f25124c19c60a14a11907d22cd640f28aa90683e"
+        "size_bytes": 794140,
+        "sha256": "b1506252ee9f03a7ca5bc0f25da63630923f7ae461852e0d515a4e68a2edff3b"
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_Е1_Схема_деления_изделия.cdw",
-        "size_bytes": 109719,
-        "sha256": "27cd3ccad74da10255c094092f34f63954db540578d178da0d4b89222a77afc3"
+        "size_bytes": 117537,
+        "sha256": "7ddb2745490080bd0626e31a08b88094065199eb1df6f8cecde991b8c5ba2874"
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_К3_Схема_кинематическая_принципиальная.cdw",
@@ -1677,8 +1583,8 @@
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_СБ_Привод.cdw",
-        "size_bytes": 577193,
-        "sha256": "fd6230d6d69a86def002498ed69b9b59f120f50331cf24a9dd05e5e9d0bddc48"
+        "size_bytes": 1257821,
+        "sha256": "288b9a13b2102c7706c7d5274540241a818166b7592f563d0266bface316e940"
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.00.00.00_Спецификация_привода.spw",
@@ -1687,8 +1593,8 @@
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.01.00.00_СБ_Редуктор.cdw",
-        "size_bytes": 1862397,
-        "sha256": "38ae6d9b4d094362403e275f412962ce343cc4f630f8d3c238a2fd809ebf372a"
+        "size_bytes": 1863598,
+        "sha256": "c12d9dff5d1d16129572bec4372c8e1dad692b9830ffb6dcdf56af7854bec345"
       },
       {
         "path": "Нативные_КОМПАС/РЛ5.41.01.00.00_Спецификация_редуктора.spw",
@@ -1696,17 +1602,45 @@
         "sha256": "58b45873dcfdc509b4159c82b198f15c62a4d6543e1e9849920afd1da169a0d7"
       }
     ],
-    "file_count": 46,
+    "file_count": 43,
     "duplicate_content": [],
     "excluded": [
       {
         "path": "Контроль/ПРОТОКОЛ_АВТОМАТИЧЕСКОЙ_ПРОВЕРКИ.json",
         "reason": "The protocol cannot contain a stable hash of itself."
+      },
+      {
+        "path": ".DS_Store",
+        "reason": "Ephemeral platform metadata is not a release artifact."
+      },
+      {
+        "path": "PDF/.DS_Store",
+        "reason": "Ephemeral platform metadata is not a release artifact."
+      },
+      {
+        "path": "Контроль/АУДИТ_ЕДИНОГО_СТИЛЯ_РАЗМЕРОВ.json",
+        "reason": "Generated after this protocol; validated by the downstream fail-closed release-report/style pipeline."
+      },
+      {
+        "path": "Контроль/ИТОГОВЫЙ_ЛИСТ_РЕШЕНИЙ_И_КОНТРОЛЯ.md",
+        "reason": "Generated after this protocol; validated by the downstream fail-closed release-report/style pipeline."
+      },
+      {
+        "path": "Контроль/ОТЧЁТ_НОРМОКОНТРОЛЯ.md",
+        "reason": "Generated after this protocol; validated by the downstream fail-closed release-report/style pipeline."
+      },
+      {
+        "path": "Контроль/РЕЕСТР_СПОРНЫХ_ИНЖЕНЕРНЫХ_ДАННЫХ.md",
+        "reason": "Generated after this protocol; validated by the downstream fail-closed release-report/style pipeline."
+      },
+      {
+        "path": "РЕЕСТР_ПРАВОК.md",
+        "reason": "Generated after this protocol; validated by the downstream fail-closed release-report/style pipeline."
       }
     ],
     "verifier_script": {
       "path": "C:\\Users\\makar\\Desktop\\VSC\\okp\\.codex-work\\verify_final_package.py",
-      "sha256": "f12d2a1c6fe3b81a27e8f766d0c85507d4addc72e71a02f1e24cb44f5a7cfcd3"
+      "sha256": "1fc967873e68dc76a767a39fbd6d44ec7a5c71e01dc202fe41e84afb1668da5a"
     }
   }
 }
