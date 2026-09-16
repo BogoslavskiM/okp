@@ -1,0 +1,895 @@
+{
+  "model": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+  "drawings": [
+    {
+      "key": "gch",
+      "cdw": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Чертежи\\РЛ5.41.00.00.00_ГЧ_Связанный.cdw",
+      "pdf": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\PDF\\РЛ5.41.00.00.00_ГЧ_Связанный.pdf",
+      "cdw_bytes": 809624,
+      "pdf_bytes": 215591,
+      "source_annotation_views": [
+        {
+          "number": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 0,
+            "LineDimensions": 0,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 0,
+            "CentreMarkers": 0,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 0,
+          "added": 0
+        },
+        {
+          "number": 1,
+          "x": 112.19560467590895,
+          "y": 108.16169326914826,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 1,
+            "LineDimensions": 4,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 0,
+            "ViewPointers": 2,
+            "AxisLines": 7,
+            "CentreMarkers": 1,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 15,
+          "added": 15
+        },
+        {
+          "number": 2,
+          "x": 404.60308855352696,
+          "y": 308.1333984063867,
+          "scale": 2.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 1,
+            "LineDimensions": 4,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 4,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 8,
+            "CentreMarkers": 21,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 38,
+          "added": 38
+        },
+        {
+          "number": 3,
+          "x": 278.94499061144086,
+          "y": 108.16169326914826,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 2,
+            "LineDimensions": 3,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 2,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 3,
+            "CentreMarkers": 9,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 19,
+          "added": 19
+        }
+      ],
+      "audit": {
+        "views": [
+          {
+            "number": 0,
+            "type": 0,
+            "objects": 1,
+            "annotations": 0
+          },
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 45,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 81,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 3,
+            "type": 2,
+            "objects": 1047,
+            "annotations": 40,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Слева"
+          }
+        ],
+        "associations": [
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 45,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 81,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 3,
+            "type": 2,
+            "objects": 1047,
+            "annotations": 40,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Слева"
+          }
+        ],
+        "all_associations_valid": true,
+        "totals": {
+          "DrawingTexts": 7,
+          "LineDimensions": 11,
+          "RadialDimensions": 0,
+          "DiametralDimensions": 4,
+          "AngleDimensions": 2,
+          "ArcDimensions": 0,
+          "BreakLineDimensions": 0,
+          "Leaders": 0,
+          "CutLines": 0,
+          "ViewPointers": 2,
+          "AxisLines": 81,
+          "CentreMarkers": 59,
+          "DrawingTables": 0,
+          "Tolerances": 0,
+          "Roughs": 0
+        },
+        "diametral_dimension_texts": [
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "4",
+            "suffix": ""
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "86",
+            "suffix": ""
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "93",
+            "suffix": ""
+          },
+          {
+            "tolerance_on": true,
+            "tolerance": "N8",
+            "nominal": "2",
+            "suffix": ""
+          }
+        ]
+      },
+      "pdf_export": {
+        "converter": "C:\\Program Files\\ASCON\\KOMPAS-3D v24 Study\\Bin\\Pdf2d.dll",
+        "result": 1,
+        "embed_fonts": true,
+        "cut_by_format": true
+      }
+    },
+    {
+      "key": "drive",
+      "cdw": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Чертежи\\РЛ5.41.00.00.00_СБ_Привод_Связанный.cdw",
+      "pdf": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\PDF\\РЛ5.41.00.00.00_СБ_Привод_Связанный.pdf",
+      "cdw_bytes": 810932,
+      "pdf_bytes": 190049,
+      "source_annotation_views": [
+        {
+          "number": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 1,
+            "LineDimensions": 0,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 0,
+            "CentreMarkers": 0,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 1,
+          "added": 1
+        },
+        {
+          "number": 1,
+          "x": 112.19560467590895,
+          "y": 108.16169326914826,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 1,
+            "LineDimensions": 4,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 0,
+            "ViewPointers": 2,
+            "AxisLines": 7,
+            "CentreMarkers": 1,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 15,
+          "added": 15
+        },
+        {
+          "number": 2,
+          "x": 231.9530885535271,
+          "y": 308.1333984063867,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 1,
+            "LineDimensions": 3,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 4,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 0,
+            "CutLines": 1,
+            "ViewPointers": 0,
+            "AxisLines": 8,
+            "CentreMarkers": 21,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 38,
+          "added": 38
+        },
+        {
+          "number": 3,
+          "x": 500.64086704046287,
+          "y": 287.1808703541868,
+          "scale": 2.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 1,
+            "LineDimensions": 1,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 12,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 54,
+            "CentreMarkers": 3,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 71,
+          "added": 71
+        },
+        {
+          "number": 4,
+          "x": 274.7,
+          "y": 117.5,
+          "scale": 4.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 2,
+            "LineDimensions": 0,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 1,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 2,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 1,
+            "CentreMarkers": 0,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 6,
+          "added": 6
+        },
+        {
+          "number": 5,
+          "x": 361.6,
+          "y": 117.5,
+          "scale": 4.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 2,
+            "LineDimensions": 0,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 0,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 1,
+            "CutLines": 0,
+            "ViewPointers": 0,
+            "AxisLines": 2,
+            "CentreMarkers": 0,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 5,
+          "added": 5
+        }
+      ],
+      "audit": {
+        "views": [
+          {
+            "number": 0,
+            "type": 0,
+            "objects": 3,
+            "annotations": 1
+          },
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 45,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 81,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 3,
+            "type": 7,
+            "objects": 592,
+            "annotations": 115,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": ""
+          }
+        ],
+        "associations": [
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 45,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 81,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 3,
+            "type": 7,
+            "objects": 592,
+            "annotations": 115,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": ""
+          }
+        ],
+        "all_associations_valid": true,
+        "totals": {
+          "DrawingTexts": 7,
+          "LineDimensions": 8,
+          "RadialDimensions": 0,
+          "DiametralDimensions": 4,
+          "AngleDimensions": 0,
+          "ArcDimensions": 0,
+          "BreakLineDimensions": 0,
+          "Leaders": 12,
+          "CutLines": 1,
+          "ViewPointers": 2,
+          "AxisLines": 156,
+          "CentreMarkers": 52,
+          "DrawingTables": 0,
+          "Tolerances": 0,
+          "Roughs": 0
+        },
+        "diametral_dimension_texts": [
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "4",
+            "suffix": ""
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "86",
+            "suffix": ""
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "93",
+            "suffix": ""
+          },
+          {
+            "tolerance_on": true,
+            "tolerance": "N8",
+            "nominal": "2",
+            "suffix": ""
+          }
+        ]
+      },
+      "pdf_export": {
+        "converter": "C:\\Program Files\\ASCON\\KOMPAS-3D v24 Study\\Bin\\Pdf2d.dll",
+        "result": 1,
+        "embed_fonts": true,
+        "cut_by_format": true
+      }
+    },
+    {
+      "key": "vo",
+      "cdw": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Чертежи\\РЛ5.41.00.00.00_ВО_Связанный.cdw",
+      "pdf": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\PDF\\РЛ5.41.00.00.00_ВО_Связанный.pdf",
+      "cdw_bytes": 1309959,
+      "pdf_bytes": 239000,
+      "source_annotation_views": [
+        {
+          "number": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 22,
+            "LineDimensions": 4,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 2,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 29,
+            "CutLines": 4,
+            "ViewPointers": 1,
+            "AxisLines": 0,
+            "CentreMarkers": 0,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 62,
+          "added": 62
+        }
+      ],
+      "audit": {
+        "views": [
+          {
+            "number": 0,
+            "type": 0,
+            "objects": 64,
+            "annotations": 62
+          },
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 43,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 893,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Справа"
+          },
+          {
+            "number": 3,
+            "type": 2,
+            "objects": 1047,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Слева"
+          },
+          {
+            "number": 4,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 43,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 5,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 30,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          }
+        ],
+        "associations": [
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 43,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 893,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Справа"
+          },
+          {
+            "number": 3,
+            "type": 2,
+            "objects": 1047,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Слева"
+          },
+          {
+            "number": 4,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 43,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 5,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 30,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          }
+        ],
+        "all_associations_valid": true,
+        "totals": {
+          "DrawingTexts": 27,
+          "LineDimensions": 4,
+          "RadialDimensions": 0,
+          "DiametralDimensions": 2,
+          "AngleDimensions": 0,
+          "ArcDimensions": 0,
+          "BreakLineDimensions": 0,
+          "Leaders": 29,
+          "CutLines": 4,
+          "ViewPointers": 1,
+          "AxisLines": 97,
+          "CentreMarkers": 56,
+          "DrawingTables": 0,
+          "Tolerances": 0,
+          "Roughs": 0
+        },
+        "diametral_dimension_texts": [
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "7",
+            "suffix": "H7/h6"
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "86",
+            "suffix": "*"
+          }
+        ]
+      },
+      "pdf_export": {
+        "converter": "C:\\Program Files\\ASCON\\KOMPAS-3D v24 Study\\Bin\\Pdf2d.dll",
+        "result": 1,
+        "embed_fonts": true,
+        "cut_by_format": true
+      }
+    },
+    {
+      "key": "reducer",
+      "cdw": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Чертежи\\РЛ5.41.01.00.00_СБ_Редуктор_Связанный.cdw",
+      "pdf": "ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\PDF\\РЛ5.41.01.00.00_СБ_Редуктор_Связанный.pdf",
+      "cdw_bytes": 1057490,
+      "pdf_bytes": 242582,
+      "source_annotation_views": [
+        {
+          "number": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "scale": 1.0,
+          "angle": 0.0,
+          "counts": {
+            "DrawingTexts": 11,
+            "LineDimensions": 6,
+            "RadialDimensions": 0,
+            "DiametralDimensions": 4,
+            "AngleDimensions": 0,
+            "ArcDimensions": 0,
+            "BreakLineDimensions": 0,
+            "Leaders": 51,
+            "CutLines": 4,
+            "ViewPointers": 0,
+            "AxisLines": 0,
+            "CentreMarkers": 0,
+            "DrawingTables": 0,
+            "Tolerances": 0,
+            "Roughs": 0
+          },
+          "refs": 76,
+          "added": 76
+        }
+      ],
+      "audit": {
+        "views": [
+          {
+            "number": 0,
+            "type": 0,
+            "objects": 78,
+            "annotations": 76
+          },
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 43,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 379,
+            "annotations": 18,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Снизу"
+          },
+          {
+            "number": 3,
+            "type": 2,
+            "objects": 893,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Справа"
+          },
+          {
+            "number": 4,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 30,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          },
+          {
+            "number": 5,
+            "type": 2,
+            "objects": 410,
+            "annotations": 26,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сзади"
+          },
+          {
+            "number": 6,
+            "type": 2,
+            "objects": 1047,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Слева"
+          }
+        ],
+        "associations": [
+          {
+            "number": 1,
+            "type": 2,
+            "objects": 1354,
+            "annotations": 43,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сверху"
+          },
+          {
+            "number": 2,
+            "type": 2,
+            "objects": 379,
+            "annotations": 18,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Снизу"
+          },
+          {
+            "number": 3,
+            "type": 2,
+            "objects": 893,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Справа"
+          },
+          {
+            "number": 4,
+            "type": 2,
+            "objects": 1579,
+            "annotations": 30,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Спереди"
+          },
+          {
+            "number": 5,
+            "type": 2,
+            "objects": 410,
+            "annotations": 26,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Сзади"
+          },
+          {
+            "number": 6,
+            "type": 2,
+            "objects": 1047,
+            "annotations": 21,
+            "valid": true,
+            "source": "C:\\Users\\makar\\Desktop\\VSC\\okp\\ИТОГОВЫЙ_КОМПЛЕКТ\\Связанные_КОМПАСС\\Модель\\РЛ5.41.00.00.00_Связанная_модель.a3d",
+            "projection": "#Слева"
+          }
+        ],
+        "all_associations_valid": true,
+        "totals": {
+          "DrawingTexts": 17,
+          "LineDimensions": 6,
+          "RadialDimensions": 0,
+          "DiametralDimensions": 4,
+          "AngleDimensions": 0,
+          "ArcDimensions": 0,
+          "BreakLineDimensions": 0,
+          "Leaders": 51,
+          "CutLines": 4,
+          "ViewPointers": 0,
+          "AxisLines": 109,
+          "CentreMarkers": 44,
+          "DrawingTables": 0,
+          "Tolerances": 0,
+          "Roughs": 0
+        },
+        "diametral_dimension_texts": [
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "4",
+            "suffix": "; 3 отв."
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "86",
+            "suffix": "*"
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "17",
+            "suffix": "H8"
+          },
+          {
+            "tolerance_on": false,
+            "tolerance": "",
+            "nominal": "7",
+            "suffix": "H7"
+          }
+        ]
+      },
+      "pdf_export": {
+        "converter": "C:\\Program Files\\ASCON\\KOMPAS-3D v24 Study\\Bin\\Pdf2d.dll",
+        "result": 1,
+        "embed_fonts": true,
+        "cut_by_format": true
+      }
+    }
+  ]
+}
