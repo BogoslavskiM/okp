@@ -1,2 +1,6 @@
 # Local Codex build workspace: generated intermediates, dependency caches and logs.
 .codex-work/
+.DS_Store
+*.bak
+~$*
+*.cd~
